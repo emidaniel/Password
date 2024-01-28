@@ -518,6 +518,7 @@ lflinkup.com
 \.glitch\.me
 \.godaddysites\.com
 \.herokuapp\.com
+\.hubside\.fr
 \.hyperphp\.com
 \.io\.vn
 \.jimdo(site|free)\.com
