@@ -744,6 +744,7 @@ placed on pending status
 prevent further unauthori(z|s)
 prevent further unauthori(z|s)ed
 prevent future unauthori(z|s)ed
+Přihlásení do e-mailu
 private secure(ly)?
 re-validate your mailbox
 recent upgrade (in|to) (the|our) database
