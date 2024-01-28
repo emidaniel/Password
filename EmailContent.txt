@@ -798,6 +798,8 @@ verify and reactivate
 Verify your email acc
 Verify your email address
 Verify your ID\s
+verify your mailbox
+verify mailbox
 via Paypal
 view attachment
 view message
