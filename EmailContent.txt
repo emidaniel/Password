@@ -699,14 +699,17 @@ delivery notification
 delivery updat(e|ing|ion)
 Download document
 dropbox secure(ly)?
+due to the recent upgrade
 E-Not(i|e)f(i|e)cat(i|e)on
 EMERGENCY
 exceeded for your email account
 exceeded for your email address
+exceeded the storage limit
 exceeded your e?mail quota
 exceeded your storage
 f(a|o)llow(ing) our process
 failed to validate
+Failure to validate
 FRAUD NOTICE
 gdrive secure(ly)?
 google drive secure(ly)?
@@ -721,6 +724,7 @@ IMAP quota
 informations has been
 informations on your account
 informations? has been
+latest upgrade (in|to) (the|our) database
 limit (and suspend )?your account
 missing ad+res+
 multiple login attempt
@@ -735,15 +739,20 @@ Password access
 Password expir
 Password reset
 Periodic Maintenance
+placed on hold
+placed on pending status
 prevent further unauthori(z|s)
 prevent further unauthori(z|s)ed
 prevent future unauthori(z|s)ed
 private secure(ly)?
+re-validate your mailbox
+recent upgrade (in|to) (the|our) database
 recipient(\'?s?) ad+res+
 recipient(\'?s?) information
 redeliv(e|i)ry
 refund not approv
 refund not approved
+renew the mailbox
 reset (your?)? password
 Retrieved document
 secure update
@@ -766,6 +775,7 @@ SMTP quota
 storage quota has
 submit your payment
 suspend(ed)? your account
+suspension of email account
 suspicious activit
 temporar(il)?y deactivat(ed?|ion)
 temporar(il)?y deactivated
@@ -782,6 +792,7 @@ updates? (i|o)n your account information
 urged to download
 USPS NOTIFICATION
 USPS.COM [\d\-\s]+
+validate your account
 verification required
 verify and reactivate
 Verify your email acc
