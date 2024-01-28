@@ -1,0 +1,803 @@
+-------------------COMMON PHISHING PATHS-------------------
+
+/wp-admin/
+/wp-includes/
+/wp-content/(?!\S{0,60}Campaign\S{0,2}\=)(?!\S{0,60}\.pdf[<\"\t\r\n])(?!\S{0,60}\.jpg[<"\t\r\n])
+chase\S{0,10}\.html"
+\b(?<=https?://)(www\.)?icloud(?!\.com)
+(?<![\x00\x41\x42\x43\x44\x45\x46\x47\x48\x49\x4A\x4B\x4C\x4D\x4E\x4F\x50\x51\x52\x53\x54\x55\x56\x57\x58\x59\x5A])appie\W
+/GoogleDrive/
+/googledocs?/
+/Dropfile/
+\b(?<=https?://)(?!www\.paypal\.com/)\S{0,40}pa?y\S{0,2}al(?!\S*\.com/)
+/uploadfile/
+/\S{0,3}outloo\S{0,2}k\S{1,3}\W
+\b(?<=https?://webmail\.)\S{0,40}webmail\w{0,3}(?!/[0-9])(?!\S{0,40}\.com/)
+owaportal
+outlook\W365
+/office\S{0,3}365/
+-icloud\Wcom
+pyapal
+/docu\S{0,3}sign\S{1,4}/
+/helpdesk/
+pay\Sa\S{0,2}login
+/natwest/
+/dro?pbo?x/
+%20paypal
+\.invoice\.php
+security-?err
+GOOGLENEW+
+/newdropbox/
+/www/amazon
+simplefileupload
+security-?warning
+-(un)?b?lock
+//helpdesk(?!\.)
+mail-?update
+//webmail(?!\.)
+mailowa
+-icloud
+icloud-
+icloudcom
+\w\.jar(?=\b)
+/https?/www/
+(pM5zH2|22xN9dG1|dV9oBz|ec2kli3|fV5EjH|g9GHv2|vB65nL|vO8zY6|xB10cG1)
+fbNewLoginPage.html
+fbMessengerLoginPage.html
+fbMbasicLoginPage.html
+pg\?do\=
+\?pwd\=
+\/postch\/
+\/antibots\/
+\/antibots\/untrusted\/
+\/mde\/
+
+-------------------COMMON MALICIOUS PAGES-------------------
+(?i)\.serve(game|counterstrike|minecraft|mp3|pics|irc|halflife|quake|ftp|http|blog|beer)\.
+is-a-therapist.com
+is-an-accountant.com
+is-an-actor.com
+is-an-actress.com
+iownyour.org
+iownyour.biz
+instanthq.com
+in-the-band.net
+ikwb.com
+iamallama.com
+https443.org
+https443.net
+homingbeacon.net
+homeunix.org
+homeunix.net
+homeunix.com
+homelinux.net
+homelinux.com
+homeip.net
+homeftp.org
+homeftp.net
+homedns.org
+hobby-site.org
+hobby-site.com
+here-for-more.info
+ham-radio-op.net
+groks-this.info
+groks-the.info
+gr8name.biz
+is-leet.com
+ygto.com
+is-lost.org
+is-not-certified.com
+is-saved.org
+is-slick.com
+is-uberleet.com
+is-very-bad.org
+is-very-evil.org
+is-very-good.org
+is-very-nice.org
+simple-url.com
+shaqnet.nu
+sixth.biz
+shacknet.us
+shacknet.biz
+sexxxy.biz
+sexidude.com
+serveusers.com
+serveuser.com
+sells-it.net
+sells-for-u.com
+ftpaccess.cc
+selfip.org
+selfip.net
+selfip.com
+selfip.biz
+scrapping.cc
+scrapper-site.net
+saves-the-whales.com
+servegame.org
+serveftp.org
+serveftp.net
+servebbs.org
+servebbs.net
+servebbs.com
+sendsmtp.com
+sellsyourhome.org
+stuff-4-sale.org
+ssmailer.com
+ssl443.org
+squirly.info
+space-to-rent.com
+from-pa.com
+podzone.org
+likescandy.com
+from-or.com
+is-into-cartoons.com
+is-a-linux-user.org
+is-a-libertarian.com
+is-a-liberal.com
+is-a-knight.org
+is-a-hunter.com
+is-a-hard-worker.com
+is-a-guru.com
+is-a-green.com
+is-a-geek.org
+is-a-geek.net
+is-a-landscaper.com
+is-a-financialadvisor.com
+is-a-doctor.com
+is-a-designer.com
+is-a-cubicle-slave.com
+is-a-cpa.com
+is-a-conservative.com
+is-a-chef.org
+from-ok.com
+from-oh.com
+from-ny.net
+from-nv.com
+from-nm.com
+from-nj.com
+from-nh.com
+from-ne.com
+from-nd.com
+from-nc.com
+from-mt.com
+from-ms.com
+from-mo.com
+from-mn.com
+is-a-democrat.com
+from-mi.com
+from-me.org
+from-md.com
+from-ma.com
+from-la.net
+from-ky.com
+from-ks.com
+from-in.com
+ns01.us
+from-il.com
+from-id.com
+from-ia.com
+from-hi.com
+from-ga.com
+from-fl.com
+from-de.com
+issmarterthanyou.com
+isteingeek.de
+istmein.de
+itemdb.com
+itsaol.com
+remotecam.nu
+my03.com
+is-a-lawyer.com
+is-a-bulls-fan.com
+from-dc.com
+from-ct.com
+from-co.net
+from-ca.com
+is-a-geek.com
+from-az.net
+from-ar.com
+from-al.com
+from-ak.com
+gr8domain.biz
+gotdns.org
+gotdns.com
+got-game.org
+go.dyndns.org
+gettrials.com
+gets-it.net
+getmyip.com
+game-server.cc
+game-host.org
+fuettertdasnetz.de
+freewww.info
+freewww.biz
+freetcp.com
+ns3.name
+ocry.com
+office-on-the.net
+on-the-web.tv
+onedumb.com
+rebatesrule.net
+onmypc.biz
+onmypc.info
+onmypc.net
+ns01.info
+freeddns.com
+forgot.his.name
+forgot.her.name
+for-the.biz
+for-some.biz
+for-our.info
+for-more.biz
+for-better.biz
+fartit.com
+faqserv.com
+mynetav.net
+mynetav.org
+mynumber.org
+mypets.ws
+myphotos.cc
+mypicture.info
+mypop3.net
+mypop3.org
+mysecondarydns.com
+mywww.biz
+myz.info
+neat-url.com
+ninth.biz
+ns01.biz
+ezua.com
+est-mon-blogueur.com
+est-le-patron.com
+est-a-la-masion.com
+podzone.net
+ourhobby.com
+otzo.com
+organiccrap.com
+onmypc.org
+onmypc.us
+est-a-la-maison.com
+esmtp.biz
+endoftheinternet.org
+endofinternet.org
+endofinternet.net
+edns.biz
+is-a-photographer.com
+dynssl.com
+is-a-republican.com
+is-a-player.com
+dyndns.ws
+dyndns.tv
+dyndns.org
+is-a-rockstar.com
+is-a-socialist.com
+is-a-soxfan.org
+is-a-student.com
+is-a-teacher.com
+mynetav.com
+mymom.info
+mylftv.com
+myftp.info
+myddns.com
+mydad.info
+wwwhost.us
+x24hr.com
+xxuz.com
+xxxy.biz
+homelinux.org
+xxxy.info
+youdontcare.com
+yourtrap.com
+zyns.com
+sells-for-less.com
+dyndns.info
+dyndns.biz
+dyndns-work.com
+dyndns-wiki.com
+dyndns-web.com
+dyndns-server.com
+dyndns-remote.com
+is-a-nascarfan.com
+dyndns-pics.com
+dyndns-office.com
+dyndns-mail.com
+dyndns-ip.com
+dyndns-home.com
+dyndns-free.com
+dyndns-blog.com
+dyndns-at-work.com
+dyndns-at-home.com
+dynathome.net
+dynamicdns.biz
+jkub.com
+dynamic-dns.net
+dynalias.org
+wikaba.com
+worse-than.tv
+writesthisblog.com
+www1.biz
+wwwhost.biz
+dynalias.net
+dynalias.com
+dyn-o-saur.com
+dvrdns.org
+dumb1.com
+is-gone.com
+mrbonus.com
+mrbasic.com
+moneyhome.biz
+misecure.com
+misconfused.org
+mine.nu
+merseine.org
+merseine.com
+readmyblog.org
+qpoe.com
+duckdns.org
+qhigh.com
+proxydns.com
+port25.biz
+ns02.us
+ns1.name
+ns2.name
+is-certified.com
+is-found.org
+is-into-anime.com
+is-into-cars.com
+dubya.us
+dubya.net
+jetos.com
+dubya.info
+is-a-chef.net
+is-a-chef.com
+is-a-celticsfan.org
+is-a-caterer.com
+is-a-candidate.org
+is-a-bruinsfan.org
+is-a-bookkeeper.com
+is-a-blogger.com
+webhop.org
+webhop.net
+webhop.info
+webhop.biz
+vizvaz.com
+trickip.org
+trickip.net
+traeumtgerade.de
+toythieves.com
+toshibanetcam.com
+toh.info
+thruhere.net
+teaches-yoga.com
+stuff-4-sale.us
+ydns.eu
+from-wi.com
+from-wa.com
+from-vt.com
+from-va.com
+dubya.biz
+dsmtp.com
+dsmtp.biz
+is-into-games.com
+longmusic.com
+mefound.com
+selfip.info
+from-wv.com
+from-tx.com
+from-tn.com
+leitungsen.de
+doomdns.org
+doomdns.com
+from-wy.com
+ftpserver.biz
+ftp1.biz
+dontexist.org
+dontexist.net
+dontexist.com
+doesntexist.org
+doesntexist.com
+lebtimnetz.de
+does-it.net
+dnsrd.com
+dnsfailover.net
+dnset.com
+is-a-nurse.com
+dnsdojo.org
+dnsdojo.net
+is-a-patsfan.org
+dnsdojo.com
+dnsalias.org
+dnsalias.net
+dnsalias.com
+dns2.us
+dns1.us
+dns05.com
+dns04.com
+dns-stuff.com
+dns-report.com
+dns-dns.com
+dhcp.biz
+ddns.us
+is-a-painter.com
+ddns.ms
+ddns.mobi
+ddns.info
+cleansite.us
+cleansite.info
+cleansite.biz
+changeip.us
+mrface.com
+mrfstops.com
+is-very-sweet.org
+is-with-theband.com
+isa-geek.com
+isa-geek.net
+isa-geek.org
+isa-hockeynut.com
+isasecret.com
+changeip.org
+changeip.net
+changeip.co
+changeip.biz
+likes-pie.com
+cechire.com
+buyshouses.net
+broke-it.net
+boldlygoingnowhere.org
+blogsite.org
+blogdns.org
+is-a-personaltrainer.com
+is-by.us
+is-an-entertainer.com
+is-an-engineer.com
+mrslove.com
+from-ut.com
+is-a-techie.com
+zzux.com
+lflink.com
+blogdns.net
+blogdns.com
+bigmoney.biz
+better-than.tv
+barrell-of-knowledge.info
+barrel-of-knowledge.info
+b0tnet.com
+home.dyndns.org
+authorizeddns.us
+is-a-anarchist.com
+lflinkup.net
+lflinkup.org
+ns02.info
+ns02.biz
+authorizeddns.org
+authorizeddns.net
+ath.cx
+at-band-camp.net
+as19557.net
+americanunfinished.com
+from-pr.com
+from-ri.com
+from-sc.com
+from-sd.com
+almostmy.com
+acmetoy.com
+4pu.com
+is-a-musician.com
+4dq.com
+3-a.net
+2waky.com
+25u.com
+land-4-sale.us
+knowsitall.info
+kicks-ass.org
+kicks-ass.net
+justdied.com
+jungleheart.com
+is-an-anarchist.com
+is-an-artist.com
+is-a-llama.com
+lflinkup.com
+(express|indd)\.adobe\.com
+\.000webhost(app)?\.com
+\.125mb\.com
+\.260mb\.net
+\.appspot\.com
+\.atsnx\.com
+\.atspace\.cc
+\.atwebpages\.com
+\.azurestaticapps\.net
+\.backblazeb2\.com
+\.boxmode\.io
+\.byethost\d+\.com
+\.codeanyapp\.com
+\.crazydomains\.com
+\.duckdns\.org
+\.dynadot\.com
+\.ezweb123\.com
+\.freetemplate\.site
+\.glitch\.me
+\.godaddysites\.com
+\.herokuapp\.com
+\.hyperphp\.com
+\.io\.vn
+\.jimdo(site|free)\.com
+\.line\.pm
+\.linkpc\.net
+\.loca\.lt
+\.misecure\.com
+\.mobi\.tt
+\.moonfruit
+\.my-free\.website
+\.myfreesites\.net
+\.myftp\.org
+\.myhuaweicloud\.com
+\.mystrikingly\.com
+\.netlify\.app
+\.onrender\.com
+\.pages\.dev
+\.pantheonsite\.io
+\.publicvm\.com
+\.repl\.co
+\.r2\.dev
+\.rf\.gd
+\.run\.app
+\.sitey\.me
+\.square\.site
+\.sytes\.net
+\.tripod\.com
+\.ultimatefreehost\.in
+\.web\.app
+\.web\.core\.windows\.net
+\.webcindario\.com
+\.webflow\.io
+\.webnode\.
+\.webwave\.dev
+\.weebly(site)?\.com
+\.wix\.com
+\.wixsite\.com
+\.wixstudio\.io
+\.work\.gd
+\.workers\.dev
+\.xsph\.ru
+\.yolasite\.com
+\.zapto\.org
+\/\/(cut)?t\.ly\/
+app\.getresponse\.com\/
+aragon\.network
+best\-practice.se
+bio\.(link|site)\/
+bio\.to\/
+cakeresume\.com
+cf\-ipfs\.com
+cloud\.z\.com
+cloudflare\-ipfs.com
+contabo\.net
+dgb\.li\/
+dweb\.link
+express\.adobe\.com
+filebase\.io
+flazio\.com
+fleek\.(co|one)
+flow\.page\/
+flowcode\.com
+form\.jotform\.com\/
+hardbin\.com
+heropost\.io
+hopp\.bio\/
+infura\-ipfs\.io
+ipfs\.io
+is\.gd\/
+jali\.me\/
+jorropo\.net
+jpu\.jp
+keepo\.io\/
+linkbio\.co\/
+linki\.ee\/
+linkin\.bio\/
+linkpop\.com\/
+linkr\.bio\/
+linktr\.ee\/
+litnet\.work
+lnkfi\.re\/
+lnwlink\.com\/
+mmm\.page
+neverblok\.com
+nftstorage\.link
+pinata\.cloud
+preview\-domain
+replit\.app
+run\.place
+runfission\.com
+shorturl\.at
+shoutout\.wix\.com
+sites\.google\.com\/
+square\.site
+tiny\.cc\/
+tinyurl\.com\/
+tribelio\.page\/
+urlz\.fr
+v\.ht
+via0\.com
+webflow\.io
+wonderl\.ink
+
+-------------------COMMON GARBAGE TLDS-------------------
+\.art
+\.asia
+\.bio
+\.beer
+\.biz
+\.blog
+\.bond
+\.buzz
+\.center
+\.click
+\.club
+\.ci
+\.cc
+\.cn
+\.co
+\.cool
+\.cyou
+\.fit
+\.group
+\.help
+\.icu
+\.ink
+\.is
+\.kim
+\.life
+\.link
+\.love
+\.ltd
+\.mom
+\.monster
+\.online
+\.pics
+\.place
+\.plus
+\.pub
+\.pw
+\.red
+\.ren
+\.run
+\.sbs
+\.shop
+\.show
+\.site
+\.skin
+\.space
+\.today
+\.tokyo
+\.top
+\.video
+\.vip
+\.wiki
+\.work
+\.world
+\.xyz
+
+-------------------MESSAGE CONTENT-------------------
+(reset|changed?|updated?) (your?)? ?password
+\.odt
+account (is )?on hold
+Account Was Limited
+activate your account
+blocked your? online
+cloud secure(ly)?
+confirm ownership for
+confirm your informations
+confirm your informations?
+Copyright [\d\-\s]+ Global Internet Administration!
+dear \w{3,8}( banking)? user
+dear \w{3,8}( valued)? c[onstu]+mer
+delaye?d?s? payment
+delayed payment
+deliver\w+ ha(s|d|ve) failed
+delivery notification
+delivery updat(e|ing|ion)
+Download document
+dropbox secure(ly)?
+E-Not(i|e)f(i|e)cat(i|e)on
+EMERGENCY
+exceeded for your email account
+exceeded for your email address
+exceeded your e?mail quota
+exceeded your storage
+f(a|o)llow(ing) our process
+failed to validate
+FRAUD NOTICE
+gdrive secure(ly)?
+google drive secure(ly)?
+ha(s|d|ve) failed to deliver
+has been compromised
+has been limited
+has been placed on hold
+has been suspended
+have locked
+if you fail(ed)? to update
+IMAP quota
+informations has been
+informations on your account
+informations? has been
+limit (and suspend )?your account
+missing ad+res+
+multiple login attempt
+new voice( )?mail
+notifications pending
+onedrive secure(ly)?
+ownership validation (has )?expir(ed|ing|ation)
+package (is) on hold
+package fee
+package notification
+Password access
+Password expir
+Password reset
+Periodic Maintenance
+prevent further unauthori(z|s)
+prevent further unauthori(z|s)ed
+prevent future unauthori(z|s)ed
+private secure(ly)?
+recipient(\'?s?) ad+res+
+recipient(\'?s?) information
+redeliv(e|i)ry
+refund not approv
+refund not approved
+reset (your?)? password
+Retrieved document
+secure update
+secure(ly)? cloud
+secure(ly)? dropbox
+secure(ly)? gdrive
+secure(ly)? google drive
+secure(ly)? onedrive
+secure(ly)? private
+secure(ly)? sharefile
+secured? document
+secured? update
+Securely \S{3,4} drop( )?box
+Securely \S{3,4} Google Drive
+Securely \S{3,4} one( )?drive
+sharefile secure(ly)?
+sign in (with )? your email acc
+sign in (with )? your email address
+SMTP quota
+storage quota has
+submit your payment
+suspend(ed)? your account
+suspicious activit
+temporar(il)?y deactivat(ed?|ion)
+temporar(il)?y deactivated
+that you validate your account
+trying to access your account
+unable to verify
+UNIVERSITY HELPDESK
+unusual activity
+Unusual sign-in activity
+Update your payment
+updated? your account record
+updates? (i|o)n y?our security
+updates? (i|o)n your account information
+urged to download
+USPS NOTIFICATION
+USPS.COM [\d\-\s]+
+verification required
+verify and reactivate
+Verify your email acc
+Verify your email address
+Verify your ID\s
+via Paypal
+view attachment
+view message
+was blocked for violation
+We have locked
+wire transfer
+wired? transfer
+word must be installed
+your (c[onstu]+mer )?account (h|w)as
+your (c[onstu]+mer )?account will
+your account will be closed
+your apple (id|account) was used (to|by)
+your package has not been
+your? deliv(e|i)ry address
+your? deliv(e|i)ry information
