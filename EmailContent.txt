@@ -679,15 +679,18 @@ wonderl\.ink
 \.xyz
 
 -------------------MESSAGE CONTENT-------------------
+
 (reset|changed?|updated?) (your?)? ?password
+(to|on|at|in) the shipping address
 \.odt
 account (is )?on hold
 Account Was Limited
 activate your account
+attempted to deliver your
+attendant [\w\s\']+activat
 blocked your? online
 cloud secure(ly)?
 confirm ownership for
-confirm your informations
 confirm your informations?
 Copyright [\d\-\s]+ Global Internet Administration!
 dear \w{3,8}( banking)? user
@@ -695,6 +698,7 @@ dear \w{3,8}( valued)? c[onstu]+mer
 delaye?d?s? payment
 delayed payment
 deliver\w+ ha(s|d|ve) failed
+delivery attempt failed
 delivery notification
 delivery updat(e|ing|ion)
 Download document
@@ -702,6 +706,7 @@ dropbox secure(ly)?
 due to the recent upgrade
 E-Not(i|e)f(i|e)cat(i|e)on
 EMERGENCY
+enclosed attachment for
 exceeded for your email account
 exceeded for your email address
 exceeded the storage limit
@@ -710,31 +715,51 @@ exceeded your storage
 f(a|o)llow(ing) our process
 failed to validate
 Failure to validate
+Failure to Verify
 FRAUD NOTICE
 gdrive secure(ly)?
+Global Internet Administration
 google drive secure(ly)?
 ha(s|d|ve) failed to deliver
 has been compromised
 has been limited
 has been placed on hold
 has been suspended
+has two different logins
 have locked
 if you fail(ed)? to update
 IMAP quota
-informations has been
-informations on your account
 informations? has been
-latest upgrade (in|to) (the|our) database
+informations? on your account
+item (is) on hold
+item delayed
+item fee
+item notification
+Kindly confirm
+Kindly indicate
+Kindly provide
+Kindly validat
+Kindly verif
+latest up(date|grade) (in|to|of)[\w\s\-]*database
+latest up(date|grade) (in|to|of)[\w\s\-]*storage
 limit (and suspend )?your account
 missing ad+res+
 multiple login attempt
 new voice( )?mail
 notifications pending
 onedrive secure(ly)?
+our application to track your
+Our records? indicates?
 ownership validation (has )?expir(ed|ing|ation)
-package (is) on hold
+package (is )?on hold
+package delayed
 package fee
 package notification
+paiement [\w\s\']+suspend
+parcel (is )?on hold
+parcel delayed
+parcel fee
+parcel notification
 Password access
 Password expir
 Password reset
@@ -744,8 +769,9 @@ placed on pending status
 prevent further unauthori(z|s)
 prevent further unauthori(z|s)ed
 prevent future unauthori(z|s)ed
-Přihlásení do e-mailu
 private secure(ly)?
+procéder [\w\s\']+activat
+Přihlásení do e-mailu
 re-validate your mailbox
 recent upgrade (in|to) (the|our) database
 recipient(\'?s?) ad+res+
@@ -756,6 +782,9 @@ refund not approved
 renew the mailbox
 reset (your?)? password
 Retrieved document
+returned to sorting center
+scheduled for re\-?delivery
+Scheduled Maintenance
 secure update
 secure(ly)? cloud
 secure(ly)? dropbox
@@ -769,9 +798,14 @@ secured? update
 Securely \S{3,4} drop( )?box
 Securely \S{3,4} Google Drive
 Securely \S{3,4} one( )?drive
+service [\w\s\']+identif
+service interruption
 sharefile secure(ly)?
-sign in (with )? your email acc
-sign in (with )? your email address
+Shipment in delivery
+Shipment re\-?delivery
+sign in (with )?mailbox
+sign in (with )?your email acc
+sign in (with )?your email address
 SMTP quota
 storage quota has
 submit your payment
@@ -781,6 +815,7 @@ suspicious activit
 temporar(il)?y deactivat(ed?|ion)
 temporar(il)?y deactivated
 that you validate your account
+To avoid termination 
 trying to access your account
 unable to verify
 UNIVERSITY HELPDESK
@@ -788,31 +823,38 @@ unusual activity
 Unusual sign-in activity
 Update your payment
 updated? your account record
-updates? (i|o)n y?our security
-updates? (i|o)n your account information
+updates? (i|o)(n|f) y?our security
+updates? (i|o)(n|f) your account information
 urged to download
 USPS NOTIFICATION
 USPS.COM [\d\-\s]+
+validate account
+validate mailbox
 validate your account
+validate your mailbox
 verification required
-verify and reactivate
-Verify your email acc
-Verify your email address
-Verify your ID\s
-verify your mailbox
-verify mailbox
+verify and (re)?activate
+verify?(ing)? mailbox
+verify?(ing)? your account
+Verify?(ing)? your email acc
+Verify?(ing)? your email address
+Verify?(ing)? your ID
+verify?(ing)? your mailbox
 via Paypal
 view attachment
 view message
 was blocked for violation
 We have locked
+will be returned to the sender
+will result \w+ closure
 wire transfer
 wired? transfer
-word must be installed
 your (c[onstu]+mer )?account (h|w)as
 your (c[onstu]+mer )?account will
 your account will be closed
-your apple (id|account) was used (to|by)
+your apple (id|account) was used
+your item has not been
 your package has not been
+your parcel has not been
 your? deliv(e|i)ry address
 your? deliv(e|i)ry information
