@@ -725,6 +725,7 @@ has been compromised
 has been limited
 has been placed on hold
 has been suspended
+has 2-3 different
 has two different logins
 have locked
 if you fail(ed)? to update
@@ -740,6 +741,8 @@ Kindly indicate
 Kindly provide
 Kindly validat
 Kindly verif
+Kindly log
+Kindly authenticat
 latest up(date|grade) (in|to|of)[\w\s\-]*database
 latest up(date|grade) (in|to|of)[\w\s\-]*storage
 limit (and suspend )?your account
@@ -840,6 +843,8 @@ Verify?(ing)? your email acc
 Verify?(ing)? your email address
 Verify?(ing)? your ID
 verify?(ing)? your mailbox
+via (your)? email account
+via (your)? mailbox
 via Paypal
 view attachment
 view message
@@ -849,6 +854,7 @@ will be returned to the sender
 will result \w+ closure
 wire transfer
 wired? transfer
+work or school account
 your (c[onstu]+mer )?account (h|w)as
 your (c[onstu]+mer )?account will
 your account will be closed
