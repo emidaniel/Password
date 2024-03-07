@@ -689,6 +689,7 @@ activate your account
 attempted to deliver your
 attendant [\w\s\']+activat
 blocked your? online
+click the account verif\w+ button
 cloud secure(ly)?
 confirm ownership for
 confirm your informations?
@@ -721,14 +722,15 @@ gdrive secure(ly)?
 Global Internet Administration
 google drive secure(ly)?
 ha(s|d|ve) failed to deliver
+has 2-3 different
 has been compromised
 has been limited
 has been placed on hold
 has been suspended
-has 2-3 different
 has two different logins
 have locked
-if you fail(ed)? to update
+if you do ?n.?t (updat|verif)\w+
+if you fail(ed)? to (updat|verif)\w+
 IMAP quota
 informations? has been
 informations? on your account
@@ -736,13 +738,13 @@ item (is) on hold
 item delayed
 item fee
 item notification
+Kindly authenticat
 Kindly confirm
 Kindly indicate
+Kindly log
 Kindly provide
 Kindly validat
 Kindly verif
-Kindly log
-Kindly authenticat
 latest up(date|grade) (in|to|of)[\w\s\-]*database
 latest up(date|grade) (in|to|of)[\w\s\-]*storage
 limit (and suspend )?your account
@@ -766,6 +768,8 @@ parcel notification
 Password access
 Password expir
 Password reset
+Pending Document for Your? Review
+Pending PDF for Your? Review
 Periodic Maintenance
 placed on hold
 placed on pending status
@@ -788,6 +792,8 @@ Retrieved document
 returned to sorting center
 scheduled for re\-?delivery
 Scheduled Maintenance
+secur\w+ document pending
+secur\w+ PDF pending
 secure update
 secure(ly)? cloud
 secure(ly)? dropbox
@@ -803,6 +809,8 @@ Securely \S{3,4} Google Drive
 Securely \S{3,4} one( )?drive
 service [\w\s\']+identif
 service interruption
+shared(\sa)? secur\w+ document
+shared(\sa)? secur\w+ PDF
 sharefile secure(ly)?
 Shipment in delivery
 Shipment re\-?delivery
@@ -816,14 +824,16 @@ suspend(ed)? your account
 suspension of email account
 suspicious activit
 temporar(il)?y deactivat(ed?|ion)
-temporar(il)?y deactivated
+Thanks? (you)? for using [\w\s\-\&]*mailbox
 that you validate your account
 To avoid termination 
+To continue using, please
 trying to access your account
 unable to verify
 UNIVERSITY HELPDESK
 unusual activity
 Unusual sign-in activity
+upda\w+ terms? of servi(c|s)e
 Update your payment
 updated? your account record
 updates? (i|o)(n|f) y?our security
@@ -835,6 +845,7 @@ validate account
 validate mailbox
 validate your account
 validate your mailbox
+verif\w+ button below
 verification required
 verify and (re)?activate
 verify?(ing)? mailbox
@@ -850,6 +861,7 @@ view attachment
 view message
 was blocked for violation
 We have locked
+will be lock\w after \d+ hour
 will be returned to the sender
 will result \w+ closure
 wire transfer
