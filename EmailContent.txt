@@ -693,6 +693,7 @@ click the account verif\w+ button
 cloud secure(ly)?
 confirm ownership for
 confirm your informations?
+continu\w+ (to )?protect\w* (your )?(personal )?info
 Copyright [\d\-\s]+ Global Internet Administration!
 dear \w{3,8}( banking)? user
 dear \w{3,8}( valued)? c[onstu]+mer
@@ -708,6 +709,8 @@ due to the recent upgrade
 E-Not(i|e)f(i|e)cat(i|e)on
 EMERGENCY
 enclosed attachment for
+enhance[\w\s]*security measure
+ensure (that )?the protection\w* of your
 exceeded for your email account
 exceeded for your email address
 exceeded the storage limit
@@ -732,6 +735,7 @@ have locked
 if you do ?n.?t (updat|verif)\w+
 if you fail(ed)? to (updat|verif)\w+
 IMAP quota
+important security updat\w+
 informations? has been
 informations? on your account
 item (is) on hold
@@ -867,6 +871,7 @@ will result \w+ closure
 wire transfer
 wired? transfer
 work or school account
+you (to )?perform\w* (an? )?updat\w+
 your (c[onstu]+mer )?account (h|w)as
 your (c[onstu]+mer )?account will
 your account will be closed
