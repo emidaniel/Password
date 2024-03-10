@@ -502,6 +502,7 @@ lflinkup.com
 \.125mb\.com
 \.260mb\.net
 \.appspot\.com
+\.archive\.org
 \.atsnx\.com
 \.atspace\.cc
 \.atwebpages\.com
@@ -515,6 +516,7 @@ lflinkup.com
 \.dynadot\.com
 \.ezweb123\.com
 \.freetemplate\.site
+\.getresponsesite\.com
 \.glitch\.me
 \.godaddysites\.com
 \.herokuapp\.com
@@ -529,24 +531,29 @@ lflinkup.com
 \.mobi\.tt
 \.moonfruit
 \.my-free\.website
+\.myflodesk\.com
 \.myfreesites\.net
 \.myftp\.org
 \.myhuaweicloud\.com
 \.mystrikingly\.com
 \.netlify\.app
+\.notion\.site
 \.onrender\.com
 \.pages\.dev
 \.pantheonsite\.io
 \.publicvm\.com
-\.repl\.co
 \.r2\.dev
+\.repl\.co
 \.rf\.gd
 \.run\.app
 \.sitey\.me
 \.square\.site
+\.swipepages\.net
 \.sytes\.net
 \.tripod\.com
+\.ubpages\.com
 \.ultimatefreehost\.in
+\.w3spaces.com
 \.web\.app
 \.web\.core\.windows\.net
 \.webcindario\.com
@@ -563,12 +570,16 @@ lflinkup.com
 \.yolasite\.com
 \.zapto\.org
 \/\/(cut)?t\.ly\/
+adclicker\.io
 app\.getresponse\.com\/
 aragon\.network
+beacons\.ai
+beekai\.com
 best\-practice.se
 bio\.(link|site)\/
 bio\.to\/
 cakeresume\.com
+canva\.site
 cf\-ipfs\.com
 cloud\.z\.com
 cloudflare\-ipfs.com
@@ -579,19 +590,28 @@ express\.adobe\.com
 filebase\.io
 flazio\.com
 fleek\.(co|one)
+flipsnack\.com
 flow\.page\/
 flowcode\.com
 form\.jotform\.com\/
+forms\.aweber\.com
+gg\.gg\/
+goo\.by\/
 hardbin\.com
 heropost\.io
+hgl\.ink
 hopp\.bio\/
+hyperfollow\.com
 infura\-ipfs\.io
 ipfs\.io
 is\.gd\/
 jali\.me\/
+jemi\.so\/
 jorropo\.net
 jpu\.jp
 keepo\.io\/
+lhub\.to
+limey\.io
 linkbio\.co\/
 linki\.ee\/
 linkin\.bio\/
@@ -600,27 +620,38 @@ linkr\.bio\/
 linktr\.ee\/
 litnet\.work
 lnkfi\.re\/
+lnkfy\.co\/
 lnwlink\.com\/
 mmm\.page
+mockplus\.com\/
+msha\.ke
+muse\.io
 neverblok\.com
 nftstorage\.link
 pinata\.cloud
+powr\.io\/
 preview\-domain
 replit\.app
+resume\.io\/
 run\.place
 runfission\.com
 shorturl\.at
-shoutout\.wix\.com
 sites\.google\.com\/
 square\.site
+supersurvey\.com
+tapk\.it
+tastewp\.com
 tiny\.cc\/
 tinyurl\.com\/
 tribelio\.page\/
-urlz\.fr
+urlz\.fr\/
 v\.ht
 via0\.com
 webflow\.io
+website3\.me
+wepik\.com
 wonderl\.ink
+zoholandingpage\.eu
 
 -------------------COMMON GARBAGE TLDS-------------------
 \.art
@@ -649,6 +680,7 @@ wonderl\.ink
 \.kim
 \.life
 \.link
+\.lol
 \.love
 \.ltd
 \.mom
@@ -686,6 +718,7 @@ wonderl\.ink
 account (is )?on hold
 Account Was Limited
 activate your account
+AT\&T \w*update
 attempted to deliver your
 attendant [\w\s\']+activat
 blocked your? online
@@ -716,7 +749,7 @@ exceeded for your email address
 exceeded the storage limit
 exceeded your e?mail quota
 exceeded your storage
-f(a|o)llow(ing) our process
+f(a|o)llow(ing)? our process
 failed to validate
 Failure to validate
 Failure to Verify
@@ -756,7 +789,9 @@ missing ad+res+
 multiple login attempt
 new voice( )?mail
 notifications pending
+notifications? for parcel
 onedrive secure(ly)?
+orders? has shipped
 our application to track your
 Our records? indicates?
 ownership validation (has )?expir(ed|ing|ation)
@@ -769,6 +804,7 @@ parcel (is )?on hold
 parcel delayed
 parcel fee
 parcel notification
+parcels? has shipped
 Password access
 Password expir
 Password reset
@@ -808,9 +844,9 @@ secure(ly)? private
 secure(ly)? sharefile
 secured? document
 secured? update
-Securely \S{3,4} drop( )?box
+Securely \S{3,4} drop\s?box
 Securely \S{3,4} Google Drive
-Securely \S{3,4} one( )?drive
+Securely \S{3,4} one\s?drive
 service [\w\s\']+identif
 service interruption
 shared(\sa)? secur\w+ document
@@ -818,6 +854,7 @@ shared(\sa)? secur\w+ PDF
 sharefile secure(ly)?
 Shipment in delivery
 Shipment re\-?delivery
+shipments? status(es)? changes? notification
 sign in (with )?mailbox
 sign in (with )?your email acc
 sign in (with )?your email address
