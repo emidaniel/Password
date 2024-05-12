@@ -1,0 +1,123 @@
+replace,(?i)(p)(a)\*+(v)+(o)+(r)+(d)+
+replace,(?i)(p)(a)+(s)+\*+(v)+(o)+(r)+(d)+
+replace,(?i)(p)(a)+(s)+\**(r)+(d)+
+replace,(?i)(p)...?((v)+)?\*+((r)|.)?(\\u[a-z0-9]{4}|(d))(?!([a-z]+))
+replace,(?i)((p)|(\\u[a-z0-9]{4}))([\w]?\*+)((r)|\*|\\u[a-z0-9]{4})(\\u[a-z0-9]{4}|(d))(?!([a-z]+))
+replace,(?i)(p)(\*?[\w]+\*?)((r)|\*|\\u[a-z0-9]{4})(\\u[a-z0-9]{4}|(d))(\ |\")(?!([a-z]+))
+replace,(?i)(p)(a)+(s)+\**(r)+(d)+
+replace,(?i)(p)(a)+\\u0161\\u0161w\\u00f8(r)+(d)+(?!([a-z]+))
+replace,(?i)[a-z]{2}\\u0161\\u0161w\\u00f8(r)+(d)+(?!([a-z]+))
+replace,(?i)(p)(a)+(s)++(v)+(o)(r)+(d)+
+replace,(?i)(^|\s|[^a-z])(p)(a)(s)+(?!([a-z]+))
+replace,(?i)(p)(a)(s)\^(v)+(?!([a-z]+))
+replace,(?i)(p)\**(s)+(v)
+replace,(?i)(p)(a)+(s)+\*
+replace,(?i)(p)(\*|\s|\_|\-)*(a)+(\*|\s|\_|\-)*(s)+(\*|\s|\_|\-)*
+replace,(?i)(p)(a)(s)+(v)+(d)
+replace,(?i)(p)\\u0251(s)+(v)+((a)|(o))(r)(d)(?!([a-z]+))
+replace,(?i)(v)+(0|ø|\*)(r)(d)(?!([a-z]+))
+exact,\"(?i)short answer([a-z\d\*\ ]+)?\"\,\"\"\:\"Short answer\"\,\"(required)?\"\:true(?!([a-z]+))
+exact,\"label\":\"Short answer\",\"altLabel\"\:\"Short answer\",\"properties\"\:\{\"field\":\"shortAnswer\"},\"placeholder\"\:\"Short answer\"\}(?!([a-z]+))
+replace,(?i)(p)\\u00\d\d(s)+(?!([a-z]+))
+replace,(?i)(p).(s)(v)+(o)(r)?(d)
+replace,(?i)(p)(a)(s)(v)+(r)(d)
+replace,(?i)(p)+(a)*?(s)*?(v)+(o)?+(r)(d)
+replace,(?i)(p)(a).(v)+(o)(r)(d)
+replace,(?i)(p).(s)+(v)+(o)(r)(?!([a-z]+))
+replace,(?i)(p).(s)+(v)+(o)(r)(d)(?!([a-z]+))
+replace,(?i)(p)(s)+(v)+(o)(r)(d)(?!([a-z]+))
+replace,(?i)(p)(s)+(v)+(o)(r)(d).(?!([a-z]+))
+replace,(?i)(p)\\u03b1(s)+\\u03c9o(r)(d)(?!([a-z]+))
+replace,(?i)(p)\\u03b1(s)+\\u03c9o(r)(d).(?!([a-z]+))
+replace,(?i)(s)(e)(c)(u)(r)(i)(t)(y) (k)(e)(y)
+replace,(?i)(s)(e)(c)(u)(r)(i)(t)(y) (a)(n)(s)(v)+(e)(r)
+replace,(?i)(s)(e)(c)(u)(r)\w+[^\wÀ-úÀ-ÿ]*(c)(o)(d)(e)
+replace,(?i)(s)(e)(c)(u)(r)\w+[^\wÀ-úÀ-ÿ]*(q)(u)(e)(s)(t)(i)(o)(n)(?!([a-z]+))
+replace,(?i)(s)(e)(c)(r)(e)(t) (a)(n)(s)(v)+(e)(r)
+replace,(?i)(s)(e)(c)(r)(e)(t) (c)(o)(d)(e)
+replace,(?i)(c)(o)(d)(e) (s)(e)(c)(r)(e)(t)
+replace,(?i)(p)(i)(n)\.?(\s|\_|\-)?(c)(o)(d)(e)
+replace,(?i)(p)\/(c)(o)(d)(e)
+replace,(?i)(p)(i)(n)(c)(o)(d)(e)(?!([a-z]+))
+replace,(?i)(c)(a)(r)(d) (n)(u)(n)(b)(e)(r)
+replace,(?i)(e)(x)(p)(i)(r)[\w]+ (d)(a)(t)(e)
+replace,(?i)(d)(a)(t)(e) (o)(f) (e)(x)(p)(i)(r)[\w]+
+replace,(?i)(n)(u)(n).(r)(o) (d)(e) (i)(a) (c)(a)(r)(t).
+replace,(?i)(d)(a)(t)(e) (d)[^e]+(e)(x)(p)(i)(r)[\w]+
+replace,(?i)[^\wÀ-úÀ-ÿ]*\_*(c)[^\wÀ-úÀ-ÿ]*\_*(v)[^\wÀ-úÀ-ÿ]*\_*(v)[^\wÀ-úÀ-ÿ]*\_*(?!([a-z]+))
+replace,(?i)[^\wÀ-úÀ-ÿ]*\_*(c)[^\wÀ-úÀ-ÿ]*\_*(v)[^\wÀ-úÀ-ÿ]*\_*(c)[^\wÀ-úÀ-ÿ]*\_*(2)[^\wÀ-úÀ-ÿ]*\_*(?!([a-z]+))
+replace,(?i)^(p)(a)(r)(o)+(i).{0,1}(?!([a-z]+))
+replace,(?i)(p)(a)((s)|\*)((s)|\*)(k)(e)(y)
+replace,(?i)(s)+(k)(e)(y)
+replace,(?i)(v)+.(c)(h)(t)(v)+(o)(r)(d)
+replace,(?i)(k)(a)(t)(a)[^\wÀ-úÀ-ÿ]*\_*(s)(a)(n)(d)(i)(?!([a-z]+))
+replace,(?i)(k)(a)(t)(a)[^\wÀ-úÀ-ÿ]*\_*(i)(a)(i)(u)(a)(n)(?!([a-z]+))
+replace,(?i)(k)?(c)?(o)(d)(e)[^\wÀ-úÀ-ÿ]*\_*(v)(e)(r)(i)(f).{0,15}
+replace,(?i)(v)(e)(r)(i)(f).{0,14}[^\wÀ-úÀ-ÿ]*\_*(K)?(c)?(o)(d)(e)
+replace,(?i)(i)(o)(s)(e)(n)(o)?(r)?(d)?(?!([a-z]+))
+replace,(?i)(s)(e)((h)|(n)|%D1|\*){1,3}[^\wÀ-úÀ-ÿ]*\_*(a)(s)?[^\wÀ-úÀ-ÿ]*\_*(?!([a-z]+))
+replace,(?i)(s)(a)(i)(a)(s).(n)(a)
+replace,(?i)(s)(i)(f)(r)((e)|(u))((s)(i))?(?!([a-z]+))
+replace,(?i)(c).(n)(t)(r)..(e).{1,2}a(?!([a-z]+))
+replace,(?i)((h)|(g))((a)|(e))[(i)(s)]{1,4}((o)|(a))
+replace,(?i)((h)|(g))(e)[(i)(s)]{2,4}(o)
+replace,(?i)(i)(e)(i)(s).(o)
+replace,(?i)(k)(e)(n)+(v)+(o)(r)((d)|(t))(?!([a-z]+))
+replace,(?i)(n)(o)+(t)[a-z\.\-\ ]{1,2}((d).([^!.?\s]|\ )?)?(p)
+replace,(?i)(((c)(o)(n)(p)(t)(e))|(((m)|(n))(o)(b)(i)+(e)))(\-|\s)(o).(a)(n)(g)(e)
+replace,(?i)(i)(o)(g) (i)(n)(?!([a-z]+))
+replace,(?i)(i)(o)(g)(i)(n)(?!([a-z]+))
+replace,(?i)(n)(i)(c)(r)(o)(s)(o)(f)(t) (a)(c)+(o)(u)(n)(t)(?!([a-z]+))
+replace,(?i)(p)\\u00e5(s)+(v)+\\u00f8(r)(d)(?!([a-z]+))
+replace,(?i)(p)(a)\*\*(v)+(o)(r)(d)(?!([a-z]+))
+replace,(?i)(p)\\u00e2(s)+(?!([a-z]+))
+replace,(?i)(s)+(v)*\\u00f8(r)(d)(?!([a-z]+))
+replace,(?i).(v)+(o)(r)(d)(?!([a-z]+))
+replace,(?i)(p)(a)(s)+(v)(o)(r)(d)(?!([a-z]+))
+replace,(?i)(p)(a)\*(s)(v)+(o)(r)(d)(?!([a-z]+))
+replace,(?i)(p)\\u0101(s)+(v)+(o)(r)(d)(?!([a-z]+))
+replace,(?i)\\u01a4(a)(s)+(v)+\\u00f8(r)(d)(?!([a-z]+))
+replace,(?i)(p)\\u[a-z0-9]{4}(s)+(v)+(?!([a-z]+))
+replace,(?i)(s)+(v)+\\u[a-z0-9]{4}(?!([a-z]+))
+replace,(?i)(p)\*\*(s)(v)+(o)(r)(d)(?!([a-z]+))
+replace,(?i)(p)(a)(s)\*(v)+(o)(r)(d)(?!([a-z]+))
+replace,(?i)(^|\s|[^a-z])(p)(a)(s)+(?!([a-z]+))
+replace,(?i)П(a)(p)(o)л
+exact,(?i)\\u043f\\u0430\\u0440\\u043e\\u043b
+exact,(?i)\\ud835\\udde3\\ud835\\uddee\\ud835\\ude00\\ud835\\ude00\\ud835\\ude04\\ud835\\uddfc\\ud835\\uddff\\ud835\\uddf1
+exact,パスワード
+exact,(?i)\\u30d1\\u30b9\\u30ef\\u30fc\\u30c9
+exact,(?i)\\u041f\\u0430\\u0440\\u043e\\u043b\\u0430
+exact,(?i)шифpa
+exact,(?i)\\u0448\\u0438\\u0444\\u0440\\u0430
+exact,(?i)лo(з|3)инкa
+replace,(?i)(i)(o)(z)(i)(n)(k)(a)
+exact,(?i)\\u043b\\u043e\\u0437\\u0438\\u043d\\u043a\\u0430
+exact,(?i)Κωδικός[^\wÀ-úÀ-ÿ]*\_*πρόσβασης
+exact,(?i)\\u039a\\u03c9\\u03b4\\u03b9\\u03ba\\u03cc\\u03c2[^\wÀ-úÀ-ÿ]*\_*\\u03c0\\u03c1\\u03cc\\u03c3\\u03b2\\u03b1\\u03c3\\u03b7\\u03c2
+replace,(?i)(i)(g)(e)(n)(k)(a)(n)+(i)+(n)+(g)(s)(v)?(o)(r)(d)
+exact,(?i)סיסמה
+exact,(?i)비밀번호
+exact,(?i)\\u05e1\\u05d9\\u05e1\\u05de\\u05d4
+replace,(?i)(^|[^\wÀ-úÀ-ÿ])(p)[^\wÀ-úÀ-ÿ]*(v)([^\wÀ-úÀ-ÿ]|$)
+replace,(?i)(f)(a)(i)(t)(r)(o)(p)+.?(?!([a-z]+))
+replace,(?i)(s)(i)(a)(p)(t)..(o)(d)(i)(s)
+replace,(?i)(p)(a)(s)+(v)+(o)(d)(?!([a-z]+))
+replace,(?i)(p)(([a-z]|\\u[a-z0-9]{4})+)?\*+(([a-z]|\\u[a-z0-9]{4})+)(\\u[a-z0-9]{4}|(d))(?!([a-z]+))
+replace,(?i)(p)[a-z]+\\u[a-z0-9]{4}[a-z]+(\\u[a-z0-9]{4}|(d))(?!([a-z]+))
+replace,(?i)(p)(a).{1,4}(v)+(o).{1,4}(\\u[a-z0-9]{4}|(d))(?!([a-z]+))
+replace,(?i)(p)(((([a-zа-я0-9]+)|(\\u[a-z0-9]{4}))+)|.{1,4})(o)((r)|\*|\\u[a-z0-9]{4})(\\u[a-z0-9]{4}|(d))(?!([a-z]+))
+replace,(?i)(\\u[a-z0-9]{4})+(?!((\\|\"|\,|\{|\})))[^!.?\s]+((r)|\*|\\u[a-z0-9]{4})(\\u[a-z0-9]{4}|(d))(?!([a-z]+))
+replace,(?i)(p)(\\u[a-z0-9]{4})+(?!([a-z]+))
+replace,(?i)(p)[a-z]+\(\)[a-z]{1,2}
+replace,(?i)(p)(a)(s)*(v)*(o)(r)(d)
+replace,(?i)(p)(a)(s)*(v)*\^(r)(d)
+replace,(?i)(p)(a)(s)*(v)*(o)(r)(t)
+replace,(?i)(p)(a)(s)+\_*(c)(o)(d)(e)
+replace,(?i)(p)[(v)*\**(a)*\**(s)*\**(a)*\**(r)*\**(v)*\**]{3}
+replace,(?i)(p)+(s)+(r)+(d)
+replace,(?i)(p)[^\wÀ-úÀ-ÿ]*\_*(a)+[^\wÀ-úÀ-ÿ]*\_*(s)+[^\wÀ-úÀ-ÿ]*\_*
+replace,(?i)(p)[^\wÀ-úÀ-ÿ]*\_*(s)+[^\wÀ-úÀ-ÿ]*\_*(s)+[^\wÀ-úÀ-ÿ]*\_*(v)+
+replace,(?i)(^|\s|[^a-z])(p)[^\wÀ-úÀ-ÿ]*\_*((s)+[^\wÀ-úÀ-ÿ]*\_*)+[(a)(v)(o)]+
+replace,(?i)(p)[^\wÀ-úÀ-ÿ]*\_*(\\u[a-z0-9]{4})+[^\wÀ-úÀ-ÿ]*\_*((\\u[a-z0-9]{4})+|(s)|(v))
+replace,(?i)(p)[(o)(v)(s)(a)(r)]+(d)(?!([a-z]+))
