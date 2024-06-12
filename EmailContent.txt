@@ -499,12 +499,14 @@ is-an-artist.com
 is-a-llama.com
 lflinkup.com
 (express|indd)\.adobe\.com
+1drv\.ms\/
 \.(app|page)\.link
 \.(pages|workers)\.dev
 \.000webhost(app)?\.com
 \.000webhostapp\.com
 \.125mb\.com
 \.260mb\.net
+\.ac-page\.com
 \.activehosted\.com
 \.amplifyapp\.com
 \.appspot\.com
@@ -515,7 +517,10 @@ lflinkup.com
 \.azurestaticapps\.net
 \.azurewebsites\.net
 \.backblazeb2\.com
+\.beefreedesign\.com
 \.blob\.core\.windows\.net
+\.bmeurl\.co
+\.booqable\.shop
 \.boxmode\.io
 \.byethost\d+\.com
 \.cleverapps\.io
@@ -531,11 +536,15 @@ lflinkup.com
 \.dynv6\.net
 \.editorx\.io
 \.ezweb123\.com
+\.fo\.team
 \.freetemplate\.site
 \.getresponsesite\.com
 \.glitch\.me
 \.godaddysites\.com
+\.grwebsite\.(com|co\.uk)
 \.herokuapp\.com
+\.hoster-test\.ru
+\.hostingersite\.com
 \.hubside\.fr
 \.hyperphp\.com
 \.in\.rs
@@ -553,12 +562,15 @@ lflinkup.com
 \.myfreesites\.net
 \.myftp\.org
 \.myhuaweicloud\.com
+\.myiphost\.com
 \.mystrikingly\.com
+\.mytemp\.website
 \.netlify\.app
 \.notion\.site
 \.onepage\.me
 \.onrender\.com
 \.page\.link
+\.pagedemo\.co
 \.pages\.dev
 \.pantheonsite\.io
 \.plesk\.page
@@ -567,13 +579,16 @@ lflinkup.com
 \.repl\.co
 \.rf\.gd
 \.run\.app
-\.sho(p|w)
 \.sitesgpt\.com
 \.sitey\.me
+\.spfrm\.com
 \.square\.site
+\.squareweb\.app
 \.studio\.site
+\.surge\.sh
 \.swipepages\.net
 \.sytes\.net
+\.tilda\.ws
 \.tripod\.com
 \.ubpages\.com
 \.ukit\.me
@@ -581,17 +596,22 @@ lflinkup.com
 \.ultimatefreehost\.in
 \.univer\.se
 \.urest\.org
+\.us\.to
+\.uwu\.ai
 \.vercel\.app
+\.vev\.site
 \.w3spaces\.com
 \.wapka\.
 \.web\.app
 \.web\.core\.windows\.net
+\.webadorsite\.com
 \.webcindario\.com
 \.webflow\.io
 \.webnode\.
 \.webullar\.site
 \.webwave\.dev
 \.webydo\.com
+\.wecode\.dev
 \.weebly(site)?\.com
 \.wix\.com
 \.wixsite\.com
@@ -602,7 +622,10 @@ lflinkup.com
 \.xsph\.ru
 \.yolasite\.com
 \.zapto\.org
+\.zya\.me
+\.crd\.co
 adclicker\.io\/
+app\.decktopus\.com
 app\.getresponse\.com\/
 aragon\.network
 asekio\.com
@@ -624,7 +647,9 @@ cloudflare\-ipfs\.com
 coda\.io
 contabo\.net
 convertkit\.com
+cur\.to\/
 dgb\.li\/
+did\.li\/
 dropbox\.com\/
 dweb\.link
 dynv\d\.net
@@ -637,6 +662,8 @@ fleek\.(co|one)
 flipsnack\.com\/
 flow\.page\/
 flowcode\.com
+flowcv\.me\/
+flowto\.it\/
 form\.jotform\.com\/
 format\.com
 forms\.aweber\.com
@@ -648,6 +675,7 @@ goo\.by\/
 googleweblight\.com
 gr-site\.com
 hardbin\.com
+herolinks\.ca
 heropost\.io
 heyflow\.id
 hgl\.ink
@@ -657,10 +685,12 @@ hopto\.org
 hubspotpagebuilder\.eu
 hyperfollow\.com
 hyperfollow\.com\/
+idm\.li\/
 infura\-ipfs\.io
 instapage\.com
 ipfs\.io
 is\.gd\/
+issuu\.com\/
 jali\.me\/
 jemi\.so\/
 jimdofree\.com
@@ -668,12 +698,15 @@ jorropo\.net
 jpu\.jp
 keepo\.io\/
 komi\.io
+lc\.cx\/
 lhub\.to\/
 limesurvey\.net
 limey\.io
 link\.gallery
+link\.space\/
 linkbio\.co\/
 linkby\.tw
+linkfast\.me\/
 linki\.ee\/
 linkin\.bio\/
 linkpop\.com\/
@@ -682,6 +715,7 @@ links\.truthsocial\.com\/
 linktr\.ee\/
 list-manage\.com
 litnet\.work
+ln\.run
 lnkfi\.re\/
 lnkfy\.co\/
 lnwlink\.com\/
@@ -699,30 +733,42 @@ neverblok\.com
 nftstorage\.link
 one\.link
 pinata\.cloud
+pixelfy\.me\/
 powr\.io\/
 preview\-domain\.com
 pushb\.io\/
+q-r\.to\/
 qrco\.de\/
+qrcodes\.pro\/
+quip\.com\/
 rb\.gy\/
 rebrand\.ly\/
 replit\.app
+resoume\.com
 resume\.io\/
 run\.place
 runfission\.com
 s\.id\/
+scnv\.io\/
 set\.page
+short4\.net\/
 short\.gy
 shorter\.me\/
 shorturl\.at\/
 shoutout\.wix\.com
 sibforms\.com
 simdif\.com
+sitejet\.io
 sites\.google\.com\/
 slidesgo\.com
+smartsurvey\.co\.uk
 snapto\.link\/
+snip\.ly
 snip\.ly\/
+socprofile\.com\/
 sprw\.io
 square\.site
+studio\.yovale\.com\/
 supersurvey\.com
 surveymonkey\.com
 surveysparrow\.com
@@ -738,8 +784,10 @@ tiny\.cc\/
 tinyurl\.com\/
 travefy\.com
 tribelio\.page\/
+tyny\.to\/
 u\.to\/
 umode\.com\.br
+ur0\.jp\/
 urlz\.fr\/
 v\.ht\/
 vercel\.app
@@ -751,6 +799,7 @@ whimsical\.com
 wonderl\.ink
 wonderlink\.de
 workflowy\.com\/
+zapier\.app
 zoholandingpage\.eu
 
 -------------------COMMON GARBAGE TLDS-------------------
@@ -1045,12 +1094,15 @@ zoholandingpage\.eu
 (reset|changed?|updated?) (your?)? ?password
 (to|on|at|in) the shipping address
 \.odt
+advise you to (updat|(re)?verif)\w+
+advise you to (re)?validat\w+
 account (is )?on hold
 Account Was Limited
 activate your account
 AT\&T \w*update
 attempted to deliver your
 attendant [\w\s\']+activat
+avoid c?losing
 blocked your? online
 click the account verif\w+ button
 cloud secure(ly)?
@@ -1080,9 +1132,9 @@ exceeded the storage limit
 exceeded your e?mail quota
 exceeded your storage
 f(a|o)llow(ing)? our process
-failed to validate
-Failure to validate
-Failure to Verify
+failed to (re)?validate
+Failure to (re)?validate
+Failure to (re)?verify
 FRAUD NOTICE
 gdrive secure(ly)?
 Global Internet Administration
@@ -1095,10 +1147,12 @@ has been placed on hold
 has been suspended
 has two different logins
 have b?locked
-if you do ?n.?t (updat|verif)\w+
-if you fail(ed)? to (updat|verif)\w+
+if you do ?n.?t (updat|(re)?verif)\w+
+if you fail(ed)? to (updat|(re)?verif)\w+
 IMAP quota
 important security updat\w+
+incoming mail
+incoming message
 informations? has been
 informations? on your account
 item (is )?on hold
@@ -1115,6 +1169,7 @@ Kindly verif
 latest up(date|grade) (in|to|of)[\w\s\-]*database
 latest up(date|grade) (in|to|of)[\w\s\-]*storage
 limit (and suspend )?your account
+mailbox sync\w* fail\w*
 missing ad+res+
 multiple login attempt
 new voice( )?mail
@@ -1157,6 +1212,9 @@ re-validate your mailbox
 recent upgrade (in|to) (the|our) database
 recipient(\'?s?) ad+res+
 recipient(\'?s?) information
+recover your account
+recover (your )?(pending )?(message|mail)s?
+receive (your )?(pending )?(message|mail)s?
 redeliv(e|i)ry
 refund not approv
 refund not approved
@@ -1237,7 +1295,7 @@ via (your)? email account
 via (your)? mailbox
 via Paypal
 view attachment
-view message
+view (your )?(pending )?(message|mail)s?
 was blocked for violation
 We have locked
 will be lock\w after \d+ hour
