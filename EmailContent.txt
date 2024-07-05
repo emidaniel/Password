@@ -1155,12 +1155,17 @@ E-Not(i|e)f(i|e)cat(i|e)on
 EMERGENCY
 enclosed attachment for
 enhance[\w\s]*security measure
-ensure (that )?the protection\w* of your
-exceeded for your email account
-exceeded for your email address
-exceeded the storage limit
-exceeded your e?mail quota
-exceeded your storage
+ensur\w+ (that )?the protection\w* of your
+ensur\w+ y?our security
+ensur\w+ that your acc
+ensur\w+ that your email
+ensur\w+ that your login
+ensur\w+ that your info
+exceed(ed)? for your email account
+exceed(ed)? for your email address
+exceed(ed)? ([\w\s]+)?limit
+exceed(ed)? your e?mail quota
+exceed(ed)? your storage
 f(a|o)llow(ing)? our process
 failed to (re)?validate
 Failure to (re)?validate
@@ -1177,6 +1182,7 @@ has been placed on hold
 has been suspended
 has two different logins
 have b?locked
+HELLO\!\!\!
 if you do ?n.?t (updat|(re)?verif)\w+
 if you fail(ed)? to (updat|(re)?verif)\w+
 IMAP quota
