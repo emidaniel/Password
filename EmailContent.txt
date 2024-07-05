@@ -1129,7 +1129,8 @@ account (is )?on hold
 Account Was Limited
 activate your account
 AT\&T \w*update
-attempted to deliver your
+attempt(ed)? to deliver your
+attempt fail
 attendant [\w\s\']+activat
 avoid c?losing
 blocked your? online
