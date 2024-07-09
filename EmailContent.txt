@@ -1134,6 +1134,8 @@ attempt fail
 attendant [\w\s\']+activat
 avoid c?losing
 blocked your? online
+bt voice message
+bt voice.+mail
 click the account verif\w+ button
 cloud secure(ly)?
 confirm ownership for
@@ -1206,6 +1208,7 @@ latest up(date|grade) (in|to|of)[\w\s\-]*database
 latest up(date|grade) (in|to|of)[\w\s\-]*storage
 limit (and suspend )?your account
 mailbox sync\w* fail\w*
+messages? (that )?(w(as|ere) )?sen(d|t)
 missing ad+res+
 multiple login attempt
 new voice( )?mail
@@ -1221,8 +1224,8 @@ package delayed
 package fee
 package notification
 paiement [\w\s\']+suspend
-parcel (is )?on hold
-parcel delayed
+parcels? (is )?on hold
+parcels? delayed
 parcel fee
 parcel notification
 parcels? has shipped
@@ -1262,7 +1265,7 @@ scheduled for re\-?delivery
 Scheduled Maintenance
 secur\w+ document pending
 secur\w+ PDF pending
-secure update
+secur\w+ update
 secure(ly)? cloud
 secure(ly)? dropbox
 secure(ly)? gdrive
@@ -1284,19 +1287,21 @@ Shipment in delivery
 Shipment re\-?delivery
 shipments? status(es)? changes? notification
 sign in (with )?mailbox
-sign in (with )?your email acc
-sign in (with )?your email address
+sign in (with )?your e?.?mail acc
+sign in (with )?your e?.?mail address
 SMTP quota
 storage quota has
 submit your payment
 suspend(ed)? your account
-suspension of email account
+suspension of e?.?mail account
 suspicious activit
 temporar(il)?y deactivat(ed?|ion)
 Thanks? (you)? for using [\w\s\-\&]*mailbox
 that you validate your account
 To avoid termination 
 To continue using, please
+To be able to listen
+To listen (to )?(your )?(voice )?message
 trying to access your account
 unable to verify
 UNIVERSITY HELPDESK
@@ -1327,18 +1332,20 @@ Verify?(ing)? your email acc
 Verify?(ing)? your email address
 Verify?(ing)? your ID
 verify?(ing)? your mailbox
-via (your)? email account
-via (your)? mailbox
+via (your )?e.?mail (address|account)
+via (your )?mailbox
 via Paypal
 view attachment
 view (your )?(pending )?(message|mail)s?
-was blocked for violation
-We have locked
-will be lock\w after \d+ hour
-will be returned to the sender
+was b?locked for violation
+We have b?locked
+will be b?lock\w after \d+ hour
+will be returned to (the )?sender
 will result \w+ closure
 wire transfer
 wired? transfer
+with (your )?email (address|account)
+with (your )?mailbox
 work or school account
 you (to )?perform\w* (an? )?updat\w+
 your (c[onstu]+mer )?account (h|w)as
