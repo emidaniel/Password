@@ -497,7 +497,6 @@ jungleheart.com
 is-an-anarchist.com
 is-an-artist.com
 is-a-llama.com
-lflinkup.com
 (express|indd)\.adobe\.com
 1drv\.ms\/
 \.(app|page)\.link
@@ -514,14 +513,17 @@ lflinkup.com
 \.atsnx\.com
 \.atspace\.cc
 \.atwebpages\.com
+\.awstrack\.me
 \.azurestaticapps\.net
 \.azurewebsites\.net
+\.b12sites\.com
 \.backblazeb2\.com
 \.beefreedesign\.com
 \.blob\.core\.windows\.net
 \.bmeurl\.co
 \.booqable\.shop
 \.boxmode\.io
+\.bravesites\.com
 \.byethost\d+\.com
 \.cere\.network
 \.cleverapps\.io
@@ -533,6 +535,7 @@ lflinkup.com
 \.craftum\.io
 \.crazydomains\.com
 \.crd\.co
+\.domainspot\.com
 \.duckdns\.org
 \.dynadot\.com
 \.dynv6\.net
@@ -541,7 +544,10 @@ lflinkup.com
 \.fibery\.io
 \.fo\.team
 \.framer\.website
+\.free\.fr
+\.free\.hr
 \.freetemplate\.site
+\.gator\.site
 \.getresponsesite\.com
 \.glitch\.me
 \.godaddysites\.com
@@ -550,6 +556,7 @@ lflinkup.com
 \.hoster-test\.ru
 \.hostingersite\.com
 \.hubside\.fr
+\.hubspotpagebuilder\.com
 \.hyperphp\.com
 \.in\.rs
 \.io\.vn
@@ -582,6 +589,7 @@ lflinkup.com
 \.plesk\.page
 \.publicvm\.com
 \.r2\.dev
+\.railway\.app
 \.repl\.co
 \.rf\.gd
 \.run\.app
@@ -617,6 +625,7 @@ lflinkup.com
 \.webcindario\.com
 \.webflow\.io
 \.webnode\.
+\.website3\.me
 \.webullar\.site
 \.webwave\.dev
 \.webydo\.com
@@ -628,9 +637,11 @@ lflinkup.com
 \.work\.gd
 \.workers\.dev
 \.wpenginepowered\.com
+\.wstd\.io
 \.xsph\.ru
 \.yolasite\.com
 \.zapto\.org
+\.zoholandingpage\.eu
 \.zya\.me
 adclicker\.io\/
 app\.biceps-bio\.de\/
@@ -652,6 +663,7 @@ cakeresume\.com\/
 campsite\.bio\/
 canva\.site
 carrd\.co
+cere\.network
 cf\-ipfs\.com
 cloud\.z\.com
 cloudflare\-ipfs\.com
@@ -713,6 +725,7 @@ jorropo\.net
 jpu\.jp
 keepo\.io\/
 komi\.io
+l\.ead\.me\/
 lc\.cx\/
 lhub\.to\/
 limesurvey\.net
@@ -726,6 +739,7 @@ linki\.ee\/
 linkin\.bio\/
 linkpop\.com\/
 linkr\.bio\/
+linkr\.it\/
 links\.truthsocial\.com\/
 linktr\.ee\/
 list-manage\.com
@@ -737,7 +751,6 @@ lnwlink\.com\/
 magic\.ly
 miricanvas\.com
 mmm\.page
-mockplus\.com
 mockplus\.com\/
 mozellosite\.com
 msha\.ke\/
@@ -748,6 +761,7 @@ neverblok\.com
 nftstorage\.link
 odesli\.co\/
 one\.link
+parg\.co\/
 pinata\.cloud
 pixelfy\.me\/
 postly\.link\/
@@ -755,6 +769,7 @@ powr\.io\/
 preview\-domain\.com
 pushb\.io\/
 q-r\.to\/
+qr\.fm\/
 qrco\.de\/
 qrcodes\.pro\/
 quip\.com\/
@@ -784,8 +799,10 @@ sixshop\.com\/
 sl8\.in\/
 slidesgo\.com
 smartsurvey\.co\.uk
+smurl\.fr\/
 snapto\.link\/
 snip\.ly\/
+snipify\.net\/
 socprofile\.com\/
 sprw\.io
 square\.site
@@ -798,36 +815,36 @@ swll\.to\/
 t\.co\/
 tally\.so\/
 tapk\.it
+tapkit\.me\/
 taplanding\.com
 taplink\.cc
 taplink\.ws
 tastewp\.com
 tempurl\.host
+tiny1\.org\/
 tiny\.cc\/
 tinyurl\.com\/
+to\.lynck\.it\/
 travefy\.com
 tribelio\.page\/
 tyny\.to\/
 u8\.gg\/
 u\.to\/
 umode\.com\.br
+uqr\.to\/
 ur0\.jp\/
+urless\.com\/
 urlra\.com\/
 urlsrt\.io\/
 urlz\.fr\/
 v\.ht\/
 venngage\.com\/
-vercel\.app
-via0\.com
-webflow\.io
-website3\.me
 wepik\.com
 whimsical\.com
 wonderl\.ink
 wonderlink\.de
 workflowy\.com\/
 zapier\.app
-zoholandingpage\.eu
 zurl\.co\/
 
 -------------------COMMON GARBAGE TLDS-------------------
@@ -887,6 +904,7 @@ zurl\.co\/
 \.help
 \.homes
 \.icu
+\.ing
 \.ink
 \.is
 \.kim
@@ -908,6 +926,7 @@ zurl\.co\/
 \.motorcycles
 \.mov
 \.name
+\.nexus
 \.nf
 \.okinawa
 \.online
@@ -950,6 +969,7 @@ zurl\.co\/
 \.tokyo
 \.top
 \.trade
+\.tt
 \.uno
 \.video
 \.vip
@@ -1120,26 +1140,47 @@ zurl\.co\/
 
 -------------------MESSAGE CONTENT-------------------
 
+(access|login) (your )?(account|info|e?mail(box)?) again
+(check|update) [\w\s]*(account|login|info|e?mail(box)?) (now|secur\w+)
+(continue|proceed) to [\w\s]*(downloads?|documents?|attachments?|files?|PDF|propos\w+|e.?fax|voice.?(mail|message)s?)
+(continue|proceed|click( here)?) to ((down)?load|see|view)[\w\s]*(documents?|attachments?|files?|PDF|propos\w+|e.?fax|voice.?(mail|message)s?)
+(continue|proceed|click( here)?) to ((down)?load|see|view)[\w\s]*(documents?|attachments?|files?|PDF|propos\w+|e.?fax|voice.?(mail|message)s?)
+(continue|proceed|click( here)?) to listen[\w\s]*voice
+(e?mail|account|login) us(ag)?e
+(need|require)s? to be (re.?)?evaluated?
+(re)?activat\w+ (your)?([\w\s]+\s)?below
+(re)?validat\w+ (your)?([\w\s]+\s)?below
+(re)?verif\w+ (your)?([\w\s]+\s)?below
+(re.?)?confirm\w* [\w\s]*(account|login|info|e?mail(box)?)
+(re.?)?confirm\w* now
+(re.?)?validate now
+(re.?)?verify now
+(re.?)?view now
 (reset|changed?|updated?) (your?)? ?password
 (to|on|at|in) the shipping address
 \.odt
-advise you to (updat|(re)?verif)\w+
-advise you to (re)?validat\w+
 account (is )?on hold
 Account Was Limited
 activate your account
+advise you to (re)?validat\w+
+advise you to (updat|(re)?verif)\w+
+anti.?spam measure
+as a security measure
 AT\&T \w*update
-attempt(ed)? to deliver your
 attempt fail
+attempt(ed)? to deliver your
 attendant [\w\s\']+activat
 avoid c?losing
 blocked your? online
 bt voice message
 bt voice.+mail
+click here to (sign in|procee\w|(re.?)?confirm\w*)
 click the account verif\w+ button
 cloud secure(ly)?
+co(rn|ri|rl)f(i|l)(rn*|rm)
 confirm ownership for
 confirm your informations?
+confirm\w* now
 continu\w+ (to )?protect\w* (your )?(personal )?info
 Copyright [\d\-\s]+ Global Internet Administration!
 dear \w{3,8}( banking)? user
@@ -1152,23 +1193,24 @@ delivery notification
 delivery updat(e|ing|ion)
 Download document
 dropbox secure(ly)?
-due to the recent upgrade
+due to [\w\s]*recent upgrade
 E-Not(i|e)f(i|e)cat(i|e)on
 EMERGENCY
 enclosed attachment for
 enhance[\w\s]*security measure
 ensur\w+ (that )?the protection\w* of your
-ensur\w+ y?our security
 ensur\w+ that your acc
 ensur\w+ that your email
-ensur\w+ that your login
 ensur\w+ that your info
+ensur\w+ that your login
+ensur\w+ y?our security
+exceed(ed)? ([\w\s]+)?limit
 exceed(ed)? for your email account
 exceed(ed)? for your email address
-exceed(ed)? ([\w\s]+)?limit
 exceed(ed)? your e?mail quota
 exceed(ed)? your storage
 f(a|o)llow(ing)? our process
+facilitate [\w\s]*(verif\w+|antispam|measures?|secur\w+)
 failed to (re)?validate
 Failure to (re)?validate
 Failure to (re)?verify
@@ -1189,10 +1231,13 @@ if you do ?n.?t (updat|(re)?verif)\w+
 if you fail(ed)? to (updat|(re)?verif)\w+
 IMAP quota
 important security updat\w+
+in order to regain [\w\s]*access
 incoming mail
 incoming message
 informations? has been
 informations? on your account
+input [\w\s]*(account|login|info|e?mail(box)?)
+input [\w\s]*recovery phrase
 item (is )?on hold
 item delayed
 item fee
@@ -1202,6 +1247,7 @@ Kindly confirm
 Kindly indicate
 Kindly log
 Kindly provide
+kindly request that you
 Kindly validat
 Kindly verif
 latest up(date|grade) (in|to|of)[\w\s\-]*database
@@ -1210,6 +1256,7 @@ limit (and suspend )?your account
 mailbox sync\w* fail\w*
 messages? (that )?(w(as|ere) )?sen(d|t)
 missing ad+res+
+Multiple login attempt
 multiple login attempt
 new voice( )?mail
 notifications pending
@@ -1224,17 +1271,14 @@ package delayed
 package fee
 package notification
 paiement [\w\s\']+suspend
-parcels? (is )?on hold
-parcels? delayed
 parcel fee
 parcel notification
+parcels? (is )?on hold
+parcels? delayed
 parcels? has shipped
-proceed to update
-proceed to (re)?verif\w+
-proceed to (re)?validat\w+
-proceed to (re)?activat\w+
 Password access
 Password expir
+password is changing
 Password reset
 Pending Document for Your? Review
 Pending PDF for Your? Review
@@ -1245,27 +1289,37 @@ prevent further unauthori(z|s)
 prevent further unauthori(z|s)ed
 prevent future unauthori(z|s)ed
 private secure(ly)?
+procee\w to (your )?(account|e?mail(box)?)
+proceed to (re)?activat\w+
+proceed to (re)?validat\w+
+proceed to (re)?verif\w+
+proceed to update
 procéder [\w\s\']+activat
 Přihlásení do e-mailu
 re-validate your mailbox
-recent upgrade (in|to) (the|our) database
+re.?update
+receive (your )?(pending )?(message|mail)s?
+recent up(grad|dat)e[\w\s]+secur\w+
+recent up(grad|dat)e (in|to) (the|our) database
 recipient(\'?s?) ad+res+
 recipient(\'?s?) information
-recover your account
 recover (your )?(pending )?(message|mail)s?
-receive (your )?(pending )?(message|mail)s?
+recover your account
 redeliv(e|i)ry
 refund not approv
-refund not approved
 renew the mailbox
-reset (your?)? password
-Retrieved document
+require additional information
+reset (your?)?password
+Retrieved? document
 returned to sorting center
+Review (my )?(account|login|info|e?mail)
 scheduled for re\-?delivery
 Scheduled Maintenance
+secur\w+ ((re.?)?verify|(re.?)?view|(re.?)?confirm|update|validate|input|your|info\w*)
 secur\w+ document pending
 secur\w+ PDF pending
 secur\w+ update
+SECURE YOUR ACCOUNT NOW
 secure(ly)? cloud
 secure(ly)? dropbox
 secure(ly)? gdrive
@@ -1278,6 +1332,7 @@ secured? update
 Securely \S{3,4} drop\s?box
 Securely \S{3,4} Google Drive
 Securely \S{3,4} one\s?drive
+security precaution
 service [\w\s\']+identif
 service interruption
 shared(\sa)? secur\w+ document
@@ -1290,42 +1345,53 @@ sign in (with )?mailbox
 sign in (with )?your e?.?mail acc
 sign in (with )?your e?.?mail address
 SMTP quota
+spam defen\we
 storage quota has
 submit your payment
 suspend(ed)? your account
 suspension of e?.?mail account
 suspicious activit
+suspicious IP
 temporar(il)?y deactivat(ed?|ion)
 Thanks? (you)? for using [\w\s\-\&]*mailbox
 that you validate your account
 To avoid termination 
-To continue using, please
+to be able to access your
 To be able to listen
+To continue using, please
 To listen (to )?(your )?(voice )?message
+to regain [\w\s]*access
+to your [\w\s]+?account
 trying to access your account
 unable to verify
 UNIVERSITY HELPDESK
+Unusual account activity noted
 unusual activity
 Unusual sign-in activity
 upda\w+ terms? of servi(c|s)e
-Update your payment
 update (your)?([\w\s]+\s)?below
-(re)?verif\w+ (your)?([\w\s]+\s)?below
-(re)?validat\w+ (your)?([\w\s]+\s)?below
-(re)?activat\w+ (your)?([\w\s]+\s)?below
+update now
+Update your payment
 updated? your account record
 updates? (i|o)(n|f) y?our security
 updates? (i|o)(n|f) your account information
 urged to download
 USPS NOTIFICATION
-USPS.COM [\d\-\s]+
+USPS\.COM [\d\-\s]+
+validat\w+ measure
+validate [\w\s]*(account|login|info|e?mail(box)?)
+validate [\w\s]*recovery phrase
 validate account
 validate mailbox
 validate your account
 validate your mailbox
+various IP address
 verif\w+ button below
+verif\w+ measure
 verification required
 verify and (re)?activate
+verify now
+verify secur\w+
 verify?(ing)? mailbox
 verify?(ing)? your account
 Verify?(ing)? your email acc
@@ -1335,8 +1401,8 @@ verify?(ing)? your mailbox
 via (your )?e.?mail (address|account)
 via (your )?mailbox
 via Paypal
-view attachment
 view (your )?(pending )?(message|mail)s?
+view attachment
 was b?locked for violation
 We have b?locked
 will be b?lock\w after \d+ hour
@@ -1348,12 +1414,16 @@ with (your )?email (address|account)
 with (your )?mailbox
 work or school account
 you (to )?perform\w* (an? )?updat\w+
+your (account|login|info|e?mail(box)?)[\w\s]* need\w* to be
 your (c[onstu]+mer )?account (h|w)as
 your (c[onstu]+mer )?account will
 your account will be closed
 your apple (id|account) was used
 your item has not been
+your mobile number and recovery e?mail(box)?
 your package has not been
 your parcel has not been
+your phone number and recovery e?mail(box)?
+your recovery (phone|mobile) number and e?mail(box)?
 your? deliv(e|i)ry address
 your? deliv(e|i)ry information
