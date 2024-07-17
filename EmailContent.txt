@@ -508,6 +508,7 @@ is-a-llama.com
 \.ac-page\.com
 \.activehosted\.com
 \.amplifyapp\.com
+\.anvil\.app
 \.appspot\.com
 \.archive\.org
 \.atsnx\.com
@@ -526,6 +527,7 @@ is-a-llama.com
 \.bravesites\.com
 \.byethost\d+\.com
 \.cere\.network
+\.checkmysite\.cloud
 \.cleverapps\.io
 \.cloudwaysapps\.com
 \.codeanyapp\.com
@@ -561,6 +563,7 @@ is-a-llama.com
 \.in\.rs
 \.io\.vn
 \.jimdo(site|free)\.com
+\.li2niu\.com
 \.line\.pm
 \.link\.cam
 \.linkpc\.net
@@ -593,6 +596,7 @@ is-a-llama.com
 \.repl\.co
 \.rf\.gd
 \.run\.app
+\.seohost\.com\.pl
 \.sitejet\.io
 \.sitesgpt\.com
 \.sitey\.me
@@ -672,6 +676,7 @@ cognitoforms\.com\/
 contabo\.net
 convertkit\.com
 cur\.to\/
+cutt\.ly\/
 cuty\.io\/
 dgb\.li\/
 did\.li\/
@@ -704,13 +709,13 @@ herolinks\.ca
 heropost\.io
 heyflow\.id
 hgl\.ink
+hm\.ru\/
 hoo\.be\/
 hopp\.bio\/
 hopp\.co\/
 hopp\.to\/
 hopto\.org
 hubspotpagebuilder\.eu
-hyperfollow\.com
 hyperfollow\.com\/
 idm\.li\/
 infura\-ipfs\.io
@@ -725,6 +730,7 @@ jorropo\.net
 jpu\.jp
 keepo\.io\/
 komi\.io
+kortlink\.dk\/
 l\.ead\.me\/
 lc\.cx\/
 lhub\.to\/
@@ -745,6 +751,7 @@ linktr\.ee\/
 list-manage\.com
 litnet\.work
 ln\.run
+lnk\.sk\/
 lnkfi\.re\/
 lnkfy\.co\/
 lnwlink\.com\/
@@ -774,6 +781,7 @@ qrco\.de\/
 qrcodes\.pro\/
 quip\.com\/
 rb\.gy\/
+rdar\.li\/
 rebrand\.ly\/
 replit\.app
 resoume\.com
@@ -789,7 +797,7 @@ short\.gy
 shorten\.is\/
 shorter\.me\/
 shorturl\.at\/
-shoutout\.wix\.com
+shoutout\.wix\.com\/
 sht\.ac\/
 sibforms\.com
 simdif\.com
@@ -800,6 +808,7 @@ sl8\.in\/
 slidesgo\.com
 smartsurvey\.co\.uk
 smurl\.fr\/
+sn\.rs\/
 snapto\.link\/
 snip\.ly\/
 snipify\.net\/
@@ -824,15 +833,18 @@ tempurl\.host
 tiny1\.org\/
 tiny\.cc\/
 tinyurl\.com\/
+to\.lk\/
 to\.lynck\.it\/
 travefy\.com
 tribelio\.page\/
+twixar\.me\/
 tyny\.to\/
 u8\.gg\/
 u\.to\/
 umode\.com\.br
 uqr\.to\/
 ur0\.jp\/
+urled\.pro\/
 urless\.com\/
 urlra\.com\/
 urlsrt\.io\/
@@ -844,6 +856,7 @@ whimsical\.com
 wonderl\.ink
 wonderlink\.de
 workflowy\.com\/
+wx\.ax\/
 zapier\.app
 zurl\.co\/
 
@@ -1333,6 +1346,7 @@ Securely \S{3,4} drop\s?box
 Securely \S{3,4} Google Drive
 Securely \S{3,4} one\s?drive
 security precaution
+security update
 service [\w\s\']+identif
 service interruption
 shared(\sa)? secur\w+ document
