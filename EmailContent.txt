@@ -568,6 +568,7 @@ is-a-llama.com
 \.link\.cam
 \.linkpc\.net
 \.loca\.lt
+\.metricool\.com
 \.misecure\.com
 \.mobi\.tt
 \.moonfruit
@@ -615,6 +616,7 @@ is-a-llama.com
 \.ukit\.me
 \.ulcraft\.com
 \.ultimatefreehost\.in
+\.umso\.co
 \.univer\.se
 \.urest\.org
 \.us\.to
@@ -732,6 +734,7 @@ keepo\.io\/
 komi\.io
 kortlink\.dk\/
 l\.ead\.me\/
+l2g\.hu\/
 lc\.cx\/
 lhub\.to\/
 limesurvey\.net
@@ -998,6 +1001,7 @@ zurl\.co\/
 \.xyz
 \.yachts
 \.you
+\.yt
 \.zip
 \.ελ
 \.ευ
@@ -1263,6 +1267,7 @@ Kindly provide
 kindly request that you
 Kindly validat
 Kindly verif
+Kindly (continue|proceed|click( here)?)
 latest up(date|grade) (in|to|of)[\w\s\-]*database
 latest up(date|grade) (in|to|of)[\w\s\-]*storage
 limit (and suspend )?your account
@@ -1296,6 +1301,7 @@ Password reset
 Pending Document for Your? Review
 Pending PDF for Your? Review
 Periodic Maintenance
+please (continue|proceed|click( here)?)
 placed on hold
 placed on pending status
 prevent further unauthori(z|s)
