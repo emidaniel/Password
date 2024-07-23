@@ -549,6 +549,7 @@ is-a-llama.com
 \.free\.fr
 \.free\.hr
 \.freetemplate\.site
+\.freshlearn\.com
 \.gator\.site
 \.getresponsesite\.com
 \.glitch\.me
@@ -579,6 +580,7 @@ is-a-llama.com
 \.myftp\.org
 \.myhuaweicloud\.com
 \.myiphost\.com
+\.myrdbx.io
 \.myshopify\.com
 \.mystrikingly\.com
 \.mytemp\.website
@@ -678,6 +680,7 @@ cognitoforms\.com\/
 contabo\.net
 convertkit\.com
 cur\.to\/
+cut\.ovh\/
 cutt\.ly\/
 cuty\.io\/
 dgb\.li\/
@@ -687,6 +690,7 @@ dweb\.link
 dynv\d\.net
 e\.vg\/
 express\.adobe\.com
+ezyurl\.net\/
 filebase\.io
 firebaseapp\.com
 flazio\.com
@@ -732,9 +736,10 @@ jorropo\.net
 jpu\.jp
 keepo\.io\/
 komi\.io
+kontactr\.com\/
 kortlink\.dk\/
-l\.ead\.me\/
 l2g\.hu\/
+l\.ead\.me\/
 lc\.cx\/
 lhub\.to\/
 limesurvey\.net
@@ -751,6 +756,7 @@ linkr\.bio\/
 linkr\.it\/
 links\.truthsocial\.com\/
 linktr\.ee\/
+linx\.re\/
 list-manage\.com
 litnet\.work
 ln\.run
@@ -793,6 +799,7 @@ run\.mocky\.io\/
 run\.place
 runfission\.com
 s\.id\/
+salonlinkz\.com\/
 scnv\.io\/
 set\.page
 short4\.net\/
@@ -947,6 +954,7 @@ zurl\.co\/
 \.okinawa
 \.online
 \.ooo
+\.ovh
 \.pet
 \.phd
 \.pics
@@ -1188,6 +1196,7 @@ attempt fail
 attempt(ed)? to deliver your
 attendant [\w\s\']+activat
 avoid c?losing
+Awaits Your (Review|Signature)
 blocked your? online
 bt voice message
 bt voice.+mail
@@ -1206,9 +1215,11 @@ delaye?d?s? payment
 delayed payment
 deliver\w+ ha(s|d|ve) failed
 delivery attempt failed
+delivery fail
 delivery notification
 delivery updat(e|ing|ion)
 Download document
+Document Awaits Your
 dropbox secure(ly)?
 due to [\w\s]*recent upgrade
 E-Not(i|e)f(i|e)cat(i|e)on
@@ -1229,6 +1240,7 @@ exceed(ed)? your storage
 f(a|o)llow(ing)? our process
 facilitate [\w\s]*(verif\w+|antispam|measures?|secur\w+)
 failed to (re)?validate
+failed to deliver
 Failure to (re)?validate
 Failure to (re)?verify
 FRAUD NOTICE
