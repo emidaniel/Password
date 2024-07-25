@@ -552,6 +552,7 @@ is-a-llama.com
 \.freshlearn\.com
 \.gator\.site
 \.getresponsesite\.com
+\.gitbook\.io
 \.glitch\.me
 \.godaddysites\.com
 \.grwebsite\.(com|co\.uk)
@@ -1278,7 +1279,7 @@ Kindly indicate
 Kindly log
 Kindly provide
 kindly request that you
-Kindly take a minute (to )?(re.?)?(confirm|verif|valid|view|chang|updat|upgrad|activat)\w*
+Kindly take a (minute|moment) (to )?(re.?)?(confirm|verif|valid|view|chang|updat|upgrad|activat)\w*
 Kindly validat
 Kindly verif
 latest up(date|grade) (in|to|of)[\w\s\-]*database
@@ -1386,7 +1387,7 @@ suspend(ed)? your account
 suspension of e?.?mail account
 suspicious activit
 suspicious IP
-take a minute (to )?(re.?)?(confirm|verif|valid|view|chang|updat|upgrad|activat)\w*
+take a (minute|moment) (to )?(re.?)?(confirm|verif|valid|view|chang|updat|upgrad|activat)\w*
 temporar(il)?y deactivat(ed?|ion)
 Thanks? (you)? for using [\w\s\-\&]*mailbox
 that you validate your account
