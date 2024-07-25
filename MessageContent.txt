@@ -1218,8 +1218,8 @@ delivery attempt failed
 delivery fail
 delivery notification
 delivery updat(e|ing|ion)
-Download document
 Document Awaits Your
+Download document
 dropbox secure(ly)?
 due to [\w\s]*recent upgrade
 E-Not(i|e)f(i|e)cat(i|e)on
@@ -1271,17 +1271,19 @@ item (is )?on hold
 item delayed
 item fee
 item notification
+Kindly (continue|proceed|click( here)?)
 Kindly authenticat
 Kindly confirm
 Kindly indicate
 Kindly log
 Kindly provide
 kindly request that you
+Kindly take a minute (to )?(re.?)?(confirm|verif|valid|view|chang|updat|upgrad|activat)\w*
 Kindly validat
 Kindly verif
-Kindly (continue|proceed|click( here)?)
 latest up(date|grade) (in|to|of)[\w\s\-]*database
 latest up(date|grade) (in|to|of)[\w\s\-]*storage
+let.?s (re.?)?(confirm|verif|valid|view|chang|updat|upgrad|activat)\w*
 limit (and suspend )?your account
 mailbox sync\w* fail\w*
 messages? (that )?(w(as|ere) )?sen(d|t)
@@ -1313,9 +1315,9 @@ Password reset
 Pending Document for Your? Review
 Pending PDF for Your? Review
 Periodic Maintenance
-please (continue|proceed|click( here)?)
 placed on hold
 placed on pending status
+please (continue|proceed|click( here)?)
 prevent further unauthori(z|s)
 prevent further unauthori(z|s)ed
 prevent future unauthori(z|s)ed
@@ -1330,8 +1332,8 @@ Přihlásení do e-mailu
 re-validate your mailbox
 re.?update
 receive (your )?(pending )?(message|mail)s?
-recent up(grad|dat)e[\w\s]+secur\w+
 recent up(grad|dat)e (in|to) (the|our) database
+recent up(grad|dat)e[\w\s]+secur\w+
 recipient(\'?s?) ad+res+
 recipient(\'?s?) information
 recover (your )?(pending )?(message|mail)s?
@@ -1384,6 +1386,7 @@ suspend(ed)? your account
 suspension of e?.?mail account
 suspicious activit
 suspicious IP
+take a minute (to )?(re.?)?(confirm|verif|valid|view|chang|updat|upgrad|activat)\w*
 temporar(il)?y deactivat(ed?|ion)
 Thanks? (you)? for using [\w\s\-\&]*mailbox
 that you validate your account
@@ -1397,6 +1400,7 @@ to your [\w\s]+?account
 trying to access your account
 unable to verify
 UNIVERSITY HELPDESK
+unsuspend
 Unusual account activity noted
 unusual activity
 Unusual sign-in activity
