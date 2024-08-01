@@ -11,11 +11,16 @@
 /.well-known/
 //helpdesk(?!\.)
 //webmail(?!\.)
+/[\w\-\.\%]+\%\d*(\(\d+\))?\.html?$
+/\.mke
+/\?bbre\=
+/\?iduser\=
 /\S{0,3}outloo\S{0,2}k\S{1,3}\W
 /admin/archived_user.php
 /adminMyAccount/
 /adobe.html
 /adobe2024.html
+/aeon$
 /Alldomain-index.html
 /alldomain.html
 /Alphine
@@ -23,6 +28,8 @@
 /alt_type.html
 /ameli/espace/
 /anmeldung.php
+/antibots/
+/antibots/untrusted/
 /appeal_case_ID/
 /att-
 /att.com/
@@ -35,6 +42,7 @@
 /blob.html
 /BNL/
 /brt/update.php
+/captcha$
 /CHAMEL\w+\.html?
 /CHFINAL/
 /CHFINALE/
@@ -69,6 +77,7 @@
 /exel.html
 /explore.html
 /explore/connect.php
+/fbck\.php
 /GlobalSources/
 /glogin.html
 /GLS/DK/
@@ -84,6 +93,7 @@
 /HR-Leave.html
 /hrv/
 /https?/www/
+/i/*$
 /ibg/client/
 /id/meid/
 /id/pass/
@@ -115,6 +125,7 @@
 /mail.html
 /mailyahoo
 /mavi.html
+/mde/
 /me/meid/
 /mem/index.jsp.php
 /meta-community-standard
@@ -127,6 +138,7 @@
 /natwest/
 /naxz
 /net/app/index.php
+/neteasyest/900/
 /NEW%20IMPS/
 /New%20OWA.html
 /new2023alldomain.html
@@ -173,6 +185,7 @@
 /oZQAhsjYCaWn2CBtKw/
 /payment.html
 /pdf.html
+/postch/
 /pub-secure-server
 /redirecionamento/
 /Roundcube%20Webmail.html
@@ -228,7 +241,9 @@
 /vhsfhqpdhdsih6/
 /Voice.html
 /wallet/wallet%20connect/
+/wallet\.html?$
 /walletpage
+/walletpage\.php
 /wallets.html
 /Webmail/\d+/Webmail/webmail.php
 /weldone.html
@@ -246,21 +261,7 @@
 /~cp\d+/
 0nedrive
 \.invoice\.php
-/[\w\-\.\%]+\%\d*(\(\d+\))?\.html?$
-/\.mke
-/\?bbre\=
-/\?iduser\=
-/aeon$
-/antibots/
-/antibots/untrusted/
-/captcha$
-/fbck\.php
-/i/*$
-/mde/
-/neteasyest/900/
-/postch/
-/wallet\.html?$
-/walletpage\.php
+\/\/google\.com\%
 \?prv\=
 \?pwd\=
 \?sso_reload\=true
@@ -765,6 +766,7 @@ is-a-llama.com
 \.cere\.network
 \.checkmysite\.cloud
 \.cleverapps\.io
+\.cloudflarestorage\.com
 \.cloudwaysapps\.com
 \.codeanyapp\.com
 \.company\.site
@@ -838,6 +840,7 @@ is-a-llama.com
 \.run\.app
 \.seohost\.com\.pl
 \.sitejet\.io
+\.sitelium.site
 \.sitesgpt\.com
 \.sitey\.me
 \.spfrm\.com
@@ -914,6 +917,7 @@ cloud\.z\.com
 cloudflare\-ipfs\.com
 coda\.io
 cognitoforms\.com\/
+commoninja\.(com|site)
 contabo\.net
 convertkit\.com
 cur\.to\/
@@ -1017,6 +1021,7 @@ one\.link
 parg\.co\/
 pinata\.cloud
 pixelfy\.me\/
+post\.spmailtechn\.com\/
 postly\.link\/
 powr\.io\/
 preview\-domain\.com
@@ -1210,6 +1215,7 @@ zurl\.co\/
 \.rip
 \.rodeo
 \.rugby
+\.ru
 \.run
 \.sale
 \.sbs
@@ -1221,6 +1227,7 @@ zurl\.co\/
 \.space
 \.st
 \.store
+\.su
 \.surf
 \.sz
 \.tattoo
@@ -1402,25 +1409,28 @@ zurl\.co\/
 
 -------------------MESSAGE CONTENT-------------------
 
-(access|login) (your )?(account|info|e?mail(box)?) again
-(check|update) [\w\s]*(account|login|info|e?mail(box)?) (now|secur\w+)
-(continue|proceed) to [\w\s]*(downloads?|documents?|attachments?|files?|PDF|propos\w+|e.?fax|voice.?(mail|message)s?)
-(continue|proceed|click( here)?) to ((down)?load|see|view)[\w\s]*(documents?|attachments?|files?|PDF|propos\w+|e.?fax|voice.?(mail|message)s?)
-(continue|proceed|click( here)?) to ((down)?load|see|view)[\w\s]*(documents?|attachments?|files?|PDF|propos\w+|e.?fax|voice.?(mail|message)s?)
-(continue|proceed|click( here)?) to listen[\w\s]*voice
+((down)?load|see|view)[\w\s]*(documents?|attachments?|files?|PDF|propos\w+|e.?fax|voice.?(mail|message)s?) (secur\w+|below|here)
+(access|login) (your )?(account|info|e?mail(box)?) (again|now|secur\w+|below|here)
+(check|update) [\w\s]*(account|login|info|e?mail(box)?) (now|secur\w+|below|here)
+(continue|proceed|click) [\w\s]*(downloads?|documents?|attachments?|files?|PDF|propos\w+|e.?fax|voice.?(mail|message)s?)
+(continue|proceed|click ?(secur\w+|below|here)?) to ((down)?load|see|view)[\w\s]*(documents?|attachments?|files?|PDF|propos\w+|e.?fax|voice.?(mail|message)s?)
+(continue|proceed|click ?(secur\w+|below|here)?) to listen[\w\s]*voice
 (e?mail|account|login) us(ag)?e
 (need|require)s? to be (re.?)?evaluated?
-(re)?activat\w+ (your)?([\w\s]+\s)?below
-(re)?validat\w+ (your)?([\w\s]+\s)?below
-(re)?verif\w+ (your)?([\w\s]+\s)?below
+(PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s? (protect|encrypt|secur)\w*
+(PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s? Awaits Your
+(PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s? for Your? Review
+(protect|encrypt)ion is enabled
+(re)?activat\w+ (your)?([\w\s]+\s)?(now|secur\w+|below|here)
+(re)?validat\w+ (your)?([\w\s]+\s)?(now|secur\w+|below|here)
+(re)?verif\w+ (your)?([\w\s]+\s)?(now|secur\w+|below|here)
+(re.?)?(authenticat|log|indicate|provide|confirm|verif|valid|view|chang|updat|upgrad|activat)\w* ((your )?[\w\s]*)?(now|secur\w+|below|here)
 (re.?)?confirm\w* [\w\s]*(account|login|info|e?mail(box)?)
-(re.?)?confirm\w* now
-(re.?)?validate now
-(re.?)?verify now
-(re.?)?view now
 (reset|changed?|updated?) (your?)? ?password
 (to|on|at|in) the shipping address
 \.odt
+access\w* (a )?(secured?|protected|encrypted) (PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s?
+access\w* (a )?secur\w+ setting
 account (is )?on hold
 Account Was Limited
 activate your account
@@ -1445,6 +1455,7 @@ confirm ownership for
 confirm your informations?
 confirm\w* now
 continu\w+ (to )?protect\w* (your )?(personal )?info
+compulsory ((re.?)?verif|(re.?)?view|(re.?)?confirm|updat|valid)\w*
 Copyright [\d\-\s]+ Global Internet Administration!
 dear \w{3,8}( banking)? user
 dear \w{3,8}( valued)? c[onstu]+mer
@@ -1455,13 +1466,12 @@ delivery attempt failed
 delivery fail
 delivery notification
 delivery updat(e|ing|ion)
-Document Awaits Your
-Download document
+Download (PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s?
 dropbox secure(ly)?
-due to [\w\s]*recent upgrade
+due to [\w\s]*recent up(dat|grad)e
 E-Not(i|e)f(i|e)cat(i|e)on
 EMERGENCY
-enclosed attachment for
+enclosed (PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s? for
 enhance[\w\s]*security measure
 ensur\w+ (that )?the protection\w* of your
 ensur\w+ that your acc
@@ -1485,6 +1495,7 @@ gdrive secure(ly)?
 Global Internet Administration
 google drive secure(ly)?
 ha(s|d|ve) failed to deliver
+ha(s|ve) (uploaded|shared|sen(d|t)) (a )?(secured?|protected|encrypted) (PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s?
 has 2-3 different
 has been compromised
 has been limited
@@ -1508,16 +1519,10 @@ item (is )?on hold
 item delayed
 item fee
 item notification
-Kindly (continue|proceed|click( here)?)
-Kindly authenticat
-Kindly confirm
-Kindly indicate
-Kindly log
-Kindly provide
+Kindly (authenticat|log|indicate|provide|confirm|verif|valid|view|chang|updat|upgrad|activat)\w*
+Kindly (continue|proceed|click ?(here|below)?)
 kindly request that you
-Kindly take a (minute|moment) (to )?(re.?)?(confirm|verif|valid|view|chang|updat|upgrad|activat)\w*
-Kindly validat
-Kindly verif
+Kindly take a (minute|moment) (to )?(re.?)?(authenticat|log|indicate|provide|confirm|verif|valid|view|chang|updat|upgrad|activat)\w*
 latest up(date|grade) (in|to|of)[\w\s\-]*database
 latest up(date|grade) (in|to|of)[\w\s\-]*storage
 let.?s (re.?)?(confirm|verif|valid|view|chang|updat|upgrad|activat)\w*
@@ -1526,7 +1531,6 @@ mailbox sync\w* fail\w*
 messages? (that )?(w(as|ere) )?sen(d|t)
 missing ad+res+
 Multiple login attempt
-multiple login attempt
 new voice( )?mail
 notifications pending
 notifications? for parcel
@@ -1549,12 +1553,11 @@ Password access
 Password expir
 password is changing
 Password reset
-Pending Document for Your? Review
-Pending PDF for Your? Review
+Pending (PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s?
 Periodic Maintenance
 placed on hold
 placed on pending status
-please (continue|proceed|click( here)?)
+please (continue|proceed|click ?(here|below)?)
 prevent further unauthori(z|s)
 prevent further unauthori(z|s)ed
 prevent future unauthori(z|s)ed
@@ -1565,9 +1568,12 @@ proceed to (re)?validat\w+
 proceed to (re)?verif\w+
 proceed to update
 procéder [\w\s\']+activat
+protected (PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s?
+provide your (account|login|info|e?mail(box)?)[\w\s]*to continue
 Přihlásení do e-mailu
 re-validate your mailbox
 re.?update
+receiv\w* (a )?(secured?|protected|encrypted) (PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s?
 receive (your )?(pending )?(message|mail)s?
 recent up(grad|dat)e (in|to) (the|our) database
 recent up(grad|dat)e[\w\s]+secur\w+
@@ -1579,15 +1585,16 @@ redeliv(e|i)ry
 refund not approv
 renew the mailbox
 require additional information
+require\w* below
 reset (your?)?password
-Retrieved? document
+Retrieved? (PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s?
 returned to sorting center
+review (a )?(secured?|protected|encrypted) (PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s?
 Review (my )?(account|login|info|e?mail)
 scheduled for re\-?delivery
 Scheduled Maintenance
 secur\w+ ((re.?)?verify|(re.?)?view|(re.?)?confirm|update|validate|input|your|info\w*)
-secur\w+ document pending
-secur\w+ PDF pending
+secur\w+ (PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s? pending
 secur\w+ update
 SECURE YOUR ACCOUNT NOW
 secure(ly)? cloud
@@ -1597,6 +1604,7 @@ secure(ly)? google drive
 secure(ly)? onedrive
 secure(ly)? private
 secure(ly)? sharefile
+secure(ly)? sharepoint
 secured? document
 secured? update
 Securely \S{3,4} drop\s?box
@@ -1606,9 +1614,10 @@ security precaution
 security update
 service [\w\s\']+identif
 service interruption
-shared(\sa)? secur\w+ document
-shared(\sa)? secur\w+ PDF
+Shared below
+shared(\sa)? secur\w+ (PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s?
 sharefile secure(ly)?
+sharepoint secure(ly)?
 Shipment in delivery
 Shipment re\-?delivery
 shipments? status(es)? changes? notification
@@ -1620,21 +1629,22 @@ spam defen\we
 storage quota has
 submit your payment
 suspend(ed)? your account
-suspension of e?.?mail account
+suspension of e?.?mail
 suspicious activit
 suspicious IP
 take a (minute|moment) (to )?(re.?)?(confirm|verif|valid|view|chang|updat|upgrad|activat)\w*
 temporar(il)?y deactivat(ed?|ion)
 Thanks? (you)? for using [\w\s\-\&]*mailbox
-that you validate your account
+that you (re.?)?(confirm|verif|valid|view|chang|updat|upgrad|activat)\w* your
 To avoid termination 
+to avoid your (account|login|info|e?mail(box)?)[\w\s]* suspen\w+
 to be able to access your
 To be able to listen
 To continue using, please
 To listen (to )?(your )?(voice )?message
 to regain [\w\s]*access
-to your [\w\s]+?account
-trying to access your account
+to your [\w\s]+?(account|login|info|e?mail(box)?)
+trying to access your (account|login|info|e?mail(box)?)
 unable to verify
 UNIVERSITY HELPDESK
 unsuspend
@@ -1658,7 +1668,7 @@ validate account
 validate mailbox
 validate your account
 validate your mailbox
-various IP address
+various IP ad+res+
 verif\w+ button below
 verif\w+ measure
 verification required
@@ -1673,7 +1683,15 @@ Verify?(ing)? your ID
 verify?(ing)? your mailbox
 via (your )?e.?mail (address|account)
 via (your )?mailbox
+via cloud
+via dropbox
+via gdrive
+via google drive
+via onedrive
 via Paypal
+via private
+via sharefile
+via Sharepoint
 view (your )?(pending )?(message|mail)s?
 view attachment
 was b?locked for violation
@@ -1700,3 +1718,4 @@ your phone number and recovery e?mail(box)?
 your recovery (phone|mobile) number and e?mail(box)?
 your? deliv(e|i)ry address
 your? deliv(e|i)ry information
+© ?\d* ?Secure Portal
