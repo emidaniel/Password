@@ -460,6 +460,7 @@ onmypc.biz
 onmypc.info
 onmypc.net
 ns01.info
+federatedcomputer.net
 freeddns.com
 forgot.his.name
 forgot.her.name
@@ -1411,20 +1412,26 @@ zurl\.co\/
 
 ((down)?load|see|view)[\w\s]*(documents?|attachments?|files?|PDF|propos\w+|e.?fax|voice.?(mail|message)s?) (secur\w+|below|here)
 (access|login) (your )?(account|info|e?mail(box)?) (again|now|secur\w+|below|here)
+(account|login|info|e?mail(box)?) (block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+)
+(block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+) of [\w\s]*(account|login|info|e?mail(box)?)
+(block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+) permanent(ly)?
 (check|update) [\w\s]*(account|login|info|e?mail(box)?) (now|secur\w+|below|here)
-(continue|proceed|click) [\w\s]*(downloads?|documents?|attachments?|files?|PDF|propos\w+|e.?fax|voice.?(mail|message)s?)
+(compulsory|mandatory|obligatory) ((re.?)?verif|(re.?)?view|(re.?)?confirm|updat|valid)\w*
 (continue|proceed|click ?(secur\w+|below|here)?) to ((down)?load|see|view)[\w\s]*(documents?|attachments?|files?|PDF|propos\w+|e.?fax|voice.?(mail|message)s?)
 (continue|proceed|click ?(secur\w+|below|here)?) to listen[\w\s]*voice
-(e?mail|account|login) us(ag)?e
+(continue|proceed|click) [\w\s]*(downloads?|documents?|attachments?|files?|PDF|propos\w+|e.?fax|voice.?(mail|message)s?)
+(e?mail(box)?|account|login) us(ag)?e
 (need|require)s? to be (re.?)?evaluated?
 (PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s? (protect|encrypt|secur)\w*
 (PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s? Awaits Your
 (PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s? for Your? Review
+(planned|scheduled) [\w\s]*upgrade
 (protect|encrypt)ion is enabled
 (re)?activat\w+ (your)?([\w\s]+\s)?(now|secur\w+|below|here)
 (re)?validat\w+ (your)?([\w\s]+\s)?(now|secur\w+|below|here)
 (re)?verif\w+ (your)?([\w\s]+\s)?(now|secur\w+|below|here)
 (re.?)?(authenticat|log|indicate|provide|confirm|verif|valid|view|chang|updat|upgrad|activat)\w* ((your )?[\w\s]*)?(now|secur\w+|below|here)
+(re.?)?(authenticat|log|indicate|provide|confirm|verif|valid|view|chang|updat|upgrad|activat)\w* process
 (re.?)?confirm\w* [\w\s]*(account|login|info|e?mail(box)?)
 (reset|changed?|updated?) (your?)? ?password
 (to|on|at|in) the shipping address
@@ -1434,10 +1441,12 @@ access\w* (a )?secur\w+ setting
 account (is )?on hold
 Account Was Limited
 activate your account
+activit\w+[\w\s]* your (account|login|info|e?mail(box)?)
 advise you to (re)?validat\w+
 advise you to (updat|(re)?verif)\w+
 anti.?spam measure
 as a security measure
+ask (you )?to (authenticat|log|indicate|provide|confirm|verif|valid|view|chang|updat|upgrad|activat)\w*
 AT\&T \w*update
 attempt fail
 attempt(ed)? to deliver your
@@ -1448,14 +1457,15 @@ blocked your? online
 bt voice message
 bt voice.+mail
 click here to (sign in|procee\w|(re.?)?confirm\w*)
+CLICK HERE TO UPDATE ACCOUNT
 click the account verif\w+ button
 cloud secure(ly)?
 co(rn|ri|rl)f(i|l)(rn*|rm)
 confirm ownership for
 confirm your informations?
 confirm\w* now
+confirmation measure
 continu\w+ (to )?protect\w* (your )?(personal )?info
-compulsory ((re.?)?verif|(re.?)?view|(re.?)?confirm|updat|valid)\w*
 Copyright [\d\-\s]+ Global Internet Administration!
 dear \w{3,8}( banking)? user
 dear \w{3,8}( valued)? c[onstu]+mer
@@ -1479,6 +1489,7 @@ ensur\w+ that your email
 ensur\w+ that your info
 ensur\w+ that your login
 ensur\w+ y?our security
+ensure the security of (your|the)
 exceed(ed)? ([\w\s]+)?limit
 exceed(ed)? for your email account
 exceed(ed)? for your email address
@@ -1490,6 +1501,7 @@ failed to (re)?validate
 failed to deliver
 Failure to (re)?validate
 Failure to (re)?verify
+File Type\: PDF$
 FRAUD NOTICE
 gdrive secure(ly)?
 Global Internet Administration
@@ -1500,12 +1512,15 @@ has 2-3 different
 has been compromised
 has been limited
 has been placed on hold
+has been shut down
 has been suspended
+has been terminated
 has two different logins
 have b?locked
 HELLO\!\!\!
-if you do ?n.?t (updat|(re)?verif)\w+
-if you fail(ed)? to (updat|(re)?verif)\w+
+if you do ?n.?t (updat|(re)?(verif|confirm|valid))\w+
+if you fail(ed)? to (updat|(re)?(verif|confirm|valid))\w+
+if your? belie?ve this to be (a )? mistake
 IMAP quota
 important security updat\w+
 in order to regain [\w\s]*access
@@ -1521,6 +1536,7 @@ item fee
 item notification
 Kindly (authenticat|log|indicate|provide|confirm|verif|valid|view|chang|updat|upgrad|activat)\w*
 Kindly (continue|proceed|click ?(here|below)?)
+Kindly complete [\w\s]*below
 kindly request that you
 Kindly take a (minute|moment) (to )?(re.?)?(authenticat|log|indicate|provide|confirm|verif|valid|view|chang|updat|upgrad|activat)\w*
 latest up(date|grade) (in|to|of)[\w\s\-]*database
@@ -1531,6 +1547,7 @@ mailbox sync\w* fail\w*
 messages? (that )?(w(as|ere) )?sen(d|t)
 missing ad+res+
 Multiple login attempt
+New (PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s? Received
 new voice( )?mail
 notifications pending
 notifications? for parcel
@@ -1555,6 +1572,7 @@ password is changing
 Password reset
 Pending (PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s?
 Periodic Maintenance
+permanent (block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+)
 placed on hold
 placed on pending status
 please (continue|proceed|click ?(here|below)?)
@@ -1584,9 +1602,11 @@ recover your account
 redeliv(e|i)ry
 refund not approv
 renew the mailbox
+request an appeal
 require additional information
 require\w* below
 reset (your?)?password
+restrict\w* your (account|login|info|e?mail(box)?)
 Retrieved? (PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s?
 returned to sorting center
 review (a )?(secured?|protected|encrypted) (PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s?
@@ -1624,20 +1644,23 @@ shipments? status(es)? changes? notification
 sign in (with )?mailbox
 sign in (with )?your e?.?mail acc
 sign in (with )?your e?.?mail address
+Sign in to manage and update your account
 SMTP quota
 spam defen\we
 storage quota has
 submit your payment
-suspend(ed)? your account
-suspension of e?.?mail
+supplementary (re.?)?(authenticat|log|indicate|provide|confirm|verif|valid|view|chang|updat|upgrad|activat)\w*
 suspicious activit
 suspicious IP
+system maintenance
 take a (minute|moment) (to )?(re.?)?(confirm|verif|valid|view|chang|updat|upgrad|activat)\w*
+technical services? of our webmail
 temporar(il)?y deactivat(ed?|ion)
 Thanks? (you)? for using [\w\s\-\&]*mailbox
 that you (re.?)?(confirm|verif|valid|view|chang|updat|upgrad|activat)\w* your
-To avoid termination 
-to avoid your (account|login|info|e?mail(box)?)[\w\s]* suspen\w+
+To avoid [\w\s]*(block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+)
+To avoid email shutdown permanently
+to avoid your (account|login|info|e?mail(box)?)[\w\s]*(block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+)
 to be able to access your
 To be able to listen
 To continue using, please
@@ -1645,7 +1668,7 @@ To listen (to )?(your )?(voice )?message
 to regain [\w\s]*access
 to your [\w\s]+?(account|login|info|e?mail(box)?)
 trying to access your (account|login|info|e?mail(box)?)
-unable to verify
+unable to (access|verify|valid\w+|confirm)
 UNIVERSITY HELPDESK
 unsuspend
 Unusual account activity noted
@@ -1655,7 +1678,7 @@ upda\w+ terms? of servi(c|s)e
 update (your)?([\w\s]+\s)?below
 update now
 Update your payment
-updated? your account record
+updated? your (account|login|info|e?mail(box)?)
 updates? (i|o)(n|f) y?our security
 updates? (i|o)(n|f) your account information
 urged to download
@@ -1668,11 +1691,15 @@ validate account
 validate mailbox
 validate your account
 validate your mailbox
+validation measure
 various IP ad+res+
 verif\w+ button below
 verif\w+ measure
+verification measure
 verification required
+verified and updated
 verify and (re)?activate
+verify and update
 verify now
 verify secur\w+
 verify?(ing)? mailbox
@@ -1692,10 +1719,11 @@ via Paypal
 via private
 via sharefile
 via Sharepoint
+view (PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s?( here)?
 view (your )?(pending )?(message|mail)s?
-view attachment
 was b?locked for violation
 We have b?locked
+We have detected
 will be b?lock\w after \d+ hour
 will be returned to (the )?sender
 will result \w+ closure
@@ -1704,7 +1732,10 @@ wired? transfer
 with (your )?email (address|account)
 with (your )?mailbox
 work or school account
+You (have )?received \(\d+\) New
 you (to )?perform\w* (an? )?updat\w+
+your (account|login|info|e?mail(box)?) record
+your (account|login|info|e?mail(box)?) will be (block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+)
 your (account|login|info|e?mail(box)?)[\w\s]* need\w* to be
 your (c[onstu]+mer )?account (h|w)as
 your (c[onstu]+mer )?account will
