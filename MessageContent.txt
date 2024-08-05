@@ -1412,9 +1412,9 @@ zurl\.co\/
 
 ((down)?load|see|view)[\w\s]*(documents?|attachments?|files?|PDF|propos\w+|e.?fax|voice.?(mail|message)s?) (secur\w+|below|here)
 (access|login) (your )?(account|info|e?mail(box)?) (again|now|secur\w+|below|here)
-(account|login|info|e?mail(box)?) (block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+)
-(block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+) of [\w\s]*(account|login|info|e?mail(box)?)
-(block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+) permanent(ly)?
+(account|login|info|e?mail(box)?) (clos\w+|block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+)
+(clos\w+|block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+) of [\w\s]*(account|login|info|e?mail(box)?)
+(clos\w+|block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+) permanent(ly)?
 (check|update) [\w\s]*(account|login|info|e?mail(box)?) (now|secur\w+|below|here)
 (compulsory|mandatory|obligatory) ((re.?)?verif|(re.?)?view|(re.?)?confirm|updat|valid)\w*
 (continue|proceed|click ?(secur\w+|below|here)?) to ((down)?load|see|view)[\w\s]*(documents?|attachments?|files?|PDF|propos\w+|e.?fax|voice.?(mail|message)s?)
@@ -1457,7 +1457,8 @@ blocked your? online
 bt voice message
 bt voice.+mail
 click here to (sign in|procee\w|(re.?)?confirm\w*)
-CLICK HERE TO UPDATE ACCOUNT
+CLICK HERE TO UPDATE (YOUR? )?(ACCOUNT|LOGIN|INFO|E?MAIL(BOX)?)
+CLICK HERE TO SECURE (YOUR? )?(ACCOUNT|LOGIN|INFO|E?MAIL(BOX)?)
 click the account verif\w+ button
 cloud secure(ly)?
 co(rn|ri|rl)f(i|l)(rn*|rm)
@@ -1488,6 +1489,7 @@ ensur\w+ that your acc
 ensur\w+ that your email
 ensur\w+ that your info
 ensur\w+ that your login
+ensur\w+ y?our safety
 ensur\w+ y?our security
 ensure the security of (your|the)
 exceed(ed)? ([\w\s]+)?limit
@@ -1518,8 +1520,8 @@ has been terminated
 has two different logins
 have b?locked
 HELLO\!\!\!
-if you do ?n.?t (updat|(re)?(verif|confirm|valid))\w+
-if you fail(ed)? to (updat|(re)?(verif|confirm|valid))\w+
+if you do ?n.?t (updat|(re)?(verif|confirm|valid|identif))\w+
+if you fail(ed)? to (updat|(re)?(verif|confirm|valid|identif))\w+
 if your? belie?ve this to be (a )? mistake
 IMAP quota
 important security updat\w+
@@ -1572,7 +1574,7 @@ password is changing
 Password reset
 Pending (PDF|file|doc\w*|propos\w+|e.?fax|voice.?(mail|message)|attachment)s?
 Periodic Maintenance
-permanent (block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+)
+permanent (clos\w+|block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+)
 placed on hold
 placed on pending status
 please (continue|proceed|click ?(here|below)?)
@@ -1658,9 +1660,9 @@ technical services? of our webmail
 temporar(il)?y deactivat(ed?|ion)
 Thanks? (you)? for using [\w\s\-\&]*mailbox
 that you (re.?)?(confirm|verif|valid|view|chang|updat|upgrad|activat)\w* your
-To avoid [\w\s]*(block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+)
+To avoid [\w\s]*(clos\w+|block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+)
 To avoid email shutdown permanently
-to avoid your (account|login|info|e?mail(box)?)[\w\s]*(block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+)
+to avoid your (account|login|info|e?mail(box)?)[\w\s]*(clos\w+|block\w*|suspen\w+|shut.*down|restrict|terminat\w+|delet\w+)
 to be able to access your
 To be able to listen
 To continue using, please
@@ -1735,7 +1737,7 @@ work or school account
 You (have )?received \(\d+\) New
 you (to )?perform\w* (an? )?updat\w+
 your (account|login|info|e?mail(box)?) record
-your (account|login|info|e?mail(box)?) will be (block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+)
+your (account|login|info|e?mail(box)?) will be (clos\w+|block\w*|suspen\w+|shut.*down|restrict|terminat\w+|delet\w+)
 your (account|login|info|e?mail(box)?)[\w\s]* need\w* to be
 your (c[onstu]+mer )?account (h|w)as
 your (c[onstu]+mer )?account will
