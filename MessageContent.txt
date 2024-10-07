@@ -759,6 +759,7 @@ is-a-llama.com
 \.b-cdn\.net
 \.b12sites\.com
 \.backblazeb2\.com
+\.beak\.host
 \.beefreedesign\.com
 \.blob\.core\.windows\.net
 \.bmeurl\.co
@@ -769,6 +770,7 @@ is-a-llama.com
 \.cere\.network
 \.cfolks\.pl
 \.checkmysite\.cloud
+\.ck\.page
 \.cleverapps\.io
 \.cloudflarestorage\.com
 \.cloudwaysapps\.com
@@ -779,6 +781,8 @@ is-a-llama.com
 \.craftum\.io
 \.crazydomains\.com
 \.crd\.co
+\.daftpage\.com
+\.dmunity\.com
 \.domainspot\.com
 \.dorik\.io
 \.duckdns\.org
@@ -788,6 +792,7 @@ is-a-llama.com
 \.ezweb123\.com
 \.fibery\.io
 \.fo\.team
+\.formstack\.com
 \.framer\.app
 \.framer\.website
 \.frappe\.cloud
@@ -803,6 +808,7 @@ is-a-llama.com
 \.grwebsite\.(com|co\.uk)
 \.herokuapp\.com
 \.hocoos\.com
+\.home\.pl
 \.hoster-test\.ru
 \.hostingersite\.com
 \.hp\.peraichi\.com
@@ -838,6 +844,8 @@ is-a-llama.com
 \.mytemp\.website
 \.mywebsitetransfer\.com
 \.netlify\.app
+\.ngrok-free\.app
+\.ngrok\.app
 \.nicepage\.io
 \.notion\.site
 \.on-fleek\.app
@@ -850,6 +858,7 @@ is-a-llama.com
 \.pagy\.co
 \.pantheonsite\.io
 \.plesk\.page
+\.preview-beefreecontent\.com
 \.publicvm\.com
 \.r2\.dev
 \.railway\.app
@@ -865,14 +874,17 @@ is-a-llama.com
 \.square\.site
 \.squarespace\.com
 \.squareweb\.app
+\.stormkit\.dev
 \.studio\.site
 \.surge\.sh
+\.sviluppo\.host
 \.swipepages\.net
 \.sytes\.net
 \.tempisite\.com
 \.temporary-demo\.site
 \.tilda\.ws
 \.tripod\.com
+\.typeform\.com
 \.ubpages\.com
 \.ukit\.me
 \.ulcraft\.com
@@ -885,6 +897,7 @@ is-a-llama.com
 \.vercel\.app
 \.vev\.site
 \.vkcloud-storage\.ru
+\.volusion\.com
 \.w3spaces\.com
 \.wapka\.
 \.web\.app
@@ -918,6 +931,7 @@ is-a-llama.com
 abcsubmit\.com\/
 about\.me\/
 adclicker\.io\/
+aiy\.ooo\/
 app\.biceps-bio\.de\/
 app\.decktopus\.com
 app\.getbeamer\.com\/
@@ -932,6 +946,8 @@ best\-practice\.se
 bio\.(link|site)\/
 bio\.to\/
 biolinky\.co\/
+bityl\.co\/
+brewsurvey\.com
 bubbleapps\.io
 cakeresume\.com\/
 campsite\.bio\/
@@ -957,6 +973,7 @@ cuty\.io\/
 dgb\.li\/
 did\.li\/
 dropbox\.com\/
+dub\.sh\/
 dweb\.link
 dynv\d\.net
 e\.vg\/
@@ -986,6 +1003,7 @@ gamma\.site
 gg\.gg\/
 goo\.by\/
 googleweblight\.com
+gooo\.to\/
 gr-site\.com
 hab\.me\/
 hardbin\.com
@@ -1011,6 +1029,7 @@ is\.gd\/
 issuu\.com\/
 jali\.me\/
 jemi\.so\/
+jii\.li\/
 jimdofree\.com
 jorropo\.net
 jpu\.jp
@@ -1018,6 +1037,7 @@ keepo\.io\/
 komi\.io
 kontactr\.com\/
 kortlink\.dk\/
+kurl\.ru\/
 l2g\.hu\/
 l\.ead\.me\/
 lc\.cx\/
@@ -1026,9 +1046,11 @@ limesurvey\.net
 limey\.io
 link\.gallery
 link\.space\/
+linkaroo\.me\/
 linkbio\.co\/
 linkby\.tw
 linkfast\.me\/
+linkflit\.com\/
 linki\.ee\/
 linkin\.bio\/
 linkpop\.com\/
@@ -1040,6 +1062,7 @@ linktr\.ee\/
 linx\.re\/
 list-manage\.com
 litnet\.work
+llk\.dk\/
 ln\.run
 lnk\.sk\/
 lnkfi\.re\/
@@ -1054,7 +1077,9 @@ mozellosite\.com
 msha\.ke\/
 mtr\.bio\/
 muse\.io
+mylinks\.ai\/
 myscl\.de\/
+mysoci\.al\/
 myurls\.bio
 neartail\.com\/
 neverblok\.com
@@ -1064,16 +1089,21 @@ olink\.ai\/
 one\.link
 padlet\.com
 parg\.co\/
+pblc\.me\/pub\/
 pinata\.cloud
 pixelfy\.me\/
+playbook\.com\/s\/
 post\.spmailtechn\.com\/
 postly\.link\/
 powr\.io\/
 preview\-domain\.com
 preview\.salekit\.page
 preview\.webcake\.io
+proprofs\.com\/survey\/
+pub\.marq\.com\/
 pushb\.io\/
 q-r\.to\/
+qr-codes\.io\/
 qr\.fm\/
 qrco\.de\/
 qrcodes\.pro\/
@@ -1113,11 +1143,13 @@ snapto\.link\/
 snip\.ly\/
 snipify\.net\/
 socprofile\.com\/
+split\.to\/
 sprw\.io
 square\.site
 ssur\.cc\/
 studio\.yovale\.com\/
 supersurvey\.com
+surl\.li\/
 survey123\.arcgis\.com\/
 surveymonkey\.com
 surveysparrow\.com
@@ -1138,6 +1170,7 @@ tiny\.cc\/
 tinyurl\.com\/
 to\.lk\/
 to\.lynck\.it\/
+tr\.ee\/
 travefy\.com
 tribelio\.page\/
 turl\.do\/
@@ -1150,12 +1183,14 @@ uqr\.to\/
 ur0\.jp\/
 urled\.pro\/
 urless\.com\/
+urlgo\.co\/
 urlra\.com\/
 urlsrt\.io\/
 urlz\.fr\/
 v\.ht\/
 venngage\.com\/
 wepik\.com
+wheel\.to\/
 whimsical\.com
 wonderl\.ink
 wonderlink\.de
@@ -1481,9 +1516,9 @@ zurl\.co\/
 (access|login) (your )?(account|info|e?mail(box)?) (again|now|secur\w+|below|here)
 (account|login|info|e?mail(box)?) (cancel\w*|clos\w+|block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+|deactivat\w+)
 (cancel\w*|clos\w+|block\w*|suspen\w+|shut.*down|restrict|terminat\w+|delet\w+|interrupt\w+) within \d+(h|d)\w*
-(cancel\w*|clos\w+|block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+|deactivat\w+) due to
-(cancel\w*|clos\w+|block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+|deactivat\w+) of [\w\s]*(account|login|info|e?mail(box)?)
-(cancel\w*|clos\w+|block\w*|suspen\w+|shut.*down|restrict|termination|delet\w+|deactivat\w+) permanent(ly)?
+(cancel\w*|clos\w+|block\w*|suspen\w+|shut.*down|restrict|terminat\w+|delet\w+|deactivat\w+) due to
+(cancel\w*|clos\w+|block\w*|suspen\w+|shut.*down|restrict|terminat\w+|delet\w+|deactivat\w+) of [\w\s]*(account|login|info|e?mail(box)?)
+(cancel\w*|clos\w+|block\w*|suspen\w+|shut.*down|restrict|terminat\w+|delet\w+|deactivat\w+) permanent(ly)?
 (check|update) [\w\s]*(account|login|info|e?mail(box)?) (now|secur\w+|below|here)
 (compulsory|mandatory|obligatory) ((re.?)?verif|(re.?)?view|(re.?)?confirm|updat|valid)\w*
 (continue|proceed|click|press|tap) (secur\w+|below|here)?) to ((down)?load|see|view)[\w\s]*(documents?|attachments?|files?|PDF|propos\w+|e.?fax|voice.?(mail|message)s?)
