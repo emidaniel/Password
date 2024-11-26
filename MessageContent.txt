@@ -789,6 +789,7 @@ is-a-llama.com
 \.dynadot\.com
 \.dynv6\.net
 \.editorx\.io
+\.ewp\.live
 \.ezweb123\.com
 \.fibery\.io
 \.flk-ipfs\.xyz
@@ -800,6 +801,7 @@ is-a-llama.com
 \.free\.fr
 \.free\.hr
 \.freetemplate\.site
+\.freewebhostmost\.com
 \.freshlearn\.com
 \.gator\.site
 \.getresponsesite\.com
@@ -810,6 +812,8 @@ is-a-llama.com
 \.herokuapp\.com
 \.hocoos\.com
 \.home\.pl
+\.host\.secureserver\.net
+\.hostenko\.net
 \.hoster-test\.ru
 \.hostingersite\.com
 \.hp\.peraichi\.com
@@ -817,6 +821,7 @@ is-a-llama.com
 \.hubspotpagebuilder\.com
 \.hyperphp\.com
 \.in\.rs
+\.instawp\.xyz
 \.io\.vn
 \.jimdo(site|free)\.com
 \.kinsta\.cloud
@@ -859,6 +864,8 @@ is-a-llama.com
 \.pagy\.co
 \.pantheonsite\.io
 \.plesk\.page
+\.podia\.com
+\.pory\.app
 \.preview-beefreecontent\.com
 \.publicvm\.com
 \.r2\.dev
@@ -866,11 +873,13 @@ is-a-llama.com
 \.repl\.co
 \.rf\.gd
 \.run\.app
+\.scoreapp\.com
 \.seohost\.com\.pl
 \.sitejet\.io
 \.sitelium.site
 \.sitesgpt\.com
 \.sitey\.me
+\.sociallyversed\.com
 \.spfrm\.com
 \.square\.site
 \.squarespace\.com
@@ -881,16 +890,22 @@ is-a-llama.com
 \.sviluppo\.host
 \.swipepages\.net
 \.sytes\.net
+\.teachable\.com
+\.teemill\.com
 \.tempisite\.com
 \.temporary-demo\.site
+\.thsite\.top
+\.tiiny\.site
 \.tilda\.ws
 \.tripod\.com
+\.typedream\.app
 \.typeform\.com
 \.ubpages\.com
 \.ukit\.me
 \.ulcraft\.com
 \.ultimatefreehost\.in
 \.umso\.co
+\.uncrn\.co
 \.univer\.se
 \.urest\.org
 \.us\.to
@@ -899,6 +914,7 @@ is-a-llama.com
 \.vev\.site
 \.vkcloud-storage\.ru
 \.volusion\.com
+\.vzy\.io
 \.w3spaces\.com
 \.wapka\.
 \.web\.app
@@ -939,6 +955,7 @@ app\.getbeamer\.com\/
 app\.getresponse\.com\/
 aragon\.network
 asekio\.com
+atlassian\.net\/wiki\/
 aweb\.page
 backblazeb2\.com
 beacons\.ai\/
@@ -971,6 +988,7 @@ cur\.to\/
 cut\.ovh\/
 cutt\.ly\/
 cuty\.io\/
+dazzl\.ink\/
 dgb\.li\/
 did\.li\/
 dropbox\.com\/
@@ -995,7 +1013,9 @@ flowcode\.com
 flowcv\.me\/
 flowto\.it\/
 form\.jotform\.com\/
+formaloo\.com
 format\.com
+formester\.com\/
 forms\.aweber\.com
 forms\.fillout\.com
 forms\.visme\.co\/
@@ -1006,6 +1026,7 @@ goo\.by\/
 googleweblight\.com
 gooo\.to\/
 gr-site\.com
+grwebsites\.com\/
 hab\.me\/
 hardbin\.com
 herolinks\.ca
@@ -1021,6 +1042,7 @@ hopp\.to\/
 hopto\.org
 hubspotpagebuilder\.eu
 hyperfollow\.com\/
+i\.gal\/
 i\.mtr\.cool\/
 idm\.li\/
 infura\-ipfs\.io
@@ -1054,6 +1076,7 @@ linkfast\.me\/
 linkflit\.com\/
 linki\.ee\/
 linkin\.bio\/
+linkpages\.pro\/
 linkpop\.com\/
 linkr\.bio\/
 linkr\.it\/
@@ -1062,6 +1085,7 @@ linkshaft\.com\/
 linktr\.ee\/
 linx\.re\/
 list-manage\.com
+lite\.evernote\.com\/note\/
 litnet\.work
 llk\.dk\/
 ln\.run
@@ -1071,6 +1095,7 @@ lnkfy\.co\/
 lnkz\.at\/
 lnwlink\.com\/
 magic\.ly
+menti\.com\/
 miricanvas\.com
 mmm\.page
 mockplus\.com\/
@@ -1078,6 +1103,7 @@ mozellosite\.com
 msha\.ke\/
 mtr\.bio\/
 muse\.io
+mylink\.la\/
 mylinks\.ai\/
 myscl\.de\/
 mysoci\.al\/
@@ -1091,6 +1117,7 @@ one\.link
 padlet\.com
 parg\.co\/
 pblc\.me\/pub\/
+pdfhost\.io\/
 pinata\.cloud
 pixelfy\.me\/
 playbook\.com\/s\/
@@ -1101,9 +1128,11 @@ preview\-domain\.com
 preview\.salekit\.page
 preview\.webcake\.io
 proprofs\.com\/survey\/
+psee\.io\/
 pub\.marq\.com\/
 pushb\.io\/
 q-r\.to\/
+qpointsurvey\.com\/
 qr-codes\.io\/
 qr\.fm\/
 qrco\.de\/
@@ -1111,6 +1140,7 @@ qrcodes\.pro\/
 quip\.com\/
 rb\.gy\/
 rdar\.li\/
+reach\.at\/
 rebrand\.ly\/
 replit\.app
 resoume\.com
@@ -1123,6 +1153,7 @@ salonlinkz\.com\/
 sayhey\.to\/
 scnv\.io\/
 set\.page
+share\.hsforms\.com\/
 short4\.net\/
 short\.gy
 shorten\.is\/
@@ -1132,6 +1163,7 @@ shoutout\.wix\.com\/
 sht\.ac\/
 sibforms\.com
 simdif\.com
+site\.builderall\.net
 sitejet\.io
 sites\.google\.com\/
 sixshop\.com\/
@@ -1147,6 +1179,7 @@ socprofile\.com\/
 split\.to\/
 sprw\.io
 square\.site
+ss\.ly
 ssur\.cc\/
 studio\.yovale\.com\/
 supersurvey\.com
@@ -1169,6 +1202,7 @@ tempurl\.host
 tiny1\.org\/
 tiny\.cc\/
 tinyurl\.com\/
+tls\.tc\/
 to\.lk\/
 to\.lynck\.it\/
 tr\.ee\/
@@ -1190,6 +1224,7 @@ urlsrt\.io\/
 urlz\.fr\/
 v\.ht\/
 venngage\.com\/
+vshorturl\.com\/
 wepik\.com
 wheel\.to\/
 whimsical\.com
@@ -1655,6 +1690,7 @@ incoming mail
 incoming message
 informations? has been
 informations? on your account
+infridgement
 input [\w\s]*(account|login|info|e?mail(box)?)
 input [\w\s]*recovery phrase
 IP security updates?
