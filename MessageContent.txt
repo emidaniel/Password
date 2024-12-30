@@ -1388,6 +1388,7 @@ zurl\.co\/
 \.work
 \.world
 \.wtf
+\.xin
 \.xyz
 \.yachts
 \.you
