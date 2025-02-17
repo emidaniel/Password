@@ -795,6 +795,7 @@ is-a-llama.com
 \.flk-ipfs\.xyz
 \.fo\.team
 \.formstack\.com
+\.fornex\.host
 \.framer\.app
 \.framer\.website
 \.frappe\.cloud
@@ -817,6 +818,7 @@ is-a-llama.com
 \.hoster-test\.ru
 \.hostingersite\.com
 \.hp\.peraichi\.com
+\.hsforms.com\/
 \.hubside\.fr
 \.hubspotpagebuilder\.com
 \.hyperphp\.com
@@ -825,15 +827,18 @@ is-a-llama.com
 \.io\.vn
 \.jimdo(site|free)\.com
 \.kinsta\.cloud
+\.kit\.com
 \.li2niu\.com
 \.line\.pm
 \.link\.cam
 \.linkpc\.net
 \.loca\.lt
+\.lpages\.co
 \.mailchimpsites\.com
 \.maillist-manage\.eu
 \.metricool\.com
 \.misecure\.com
+\.mkt\.dynamics\.com\/
 \.mobi\.tt
 \.moonfruit
 \.my-free\.website
@@ -854,6 +859,7 @@ is-a-llama.com
 \.ngrok\.app
 \.nicepage\.io
 \.notion\.site
+\.odoo\.com
 \.on-fleek\.app
 \.onepage\.me
 \.onrender\.com
@@ -863,6 +869,7 @@ is-a-llama.com
 \.pages\.dev
 \.pagy\.co
 \.pantheonsite\.io
+\.playgrounds\.cloud
 \.plesk\.page
 \.podia\.com
 \.pory\.app
@@ -870,6 +877,7 @@ is-a-llama.com
 \.publicvm\.com
 \.r2\.dev
 \.railway\.app
+\.renderforestsites\.com
 \.repl\.co
 \.rf\.gd
 \.run\.app
@@ -877,6 +885,7 @@ is-a-llama.com
 \.seohost\.com\.pl
 \.sitejet\.io
 \.sitelium.site
+\.sitesandmore\.com\/
 \.sitesgpt\.com
 \.sitey\.me
 \.sociallyversed\.com
@@ -942,6 +951,7 @@ is-a-llama.com
 \.xsph\.ru
 \.yolasite\.com
 \.zapto\.org
+\.zeabur\.app
 \.zoholandingpage\.eu
 \.zohosites\.eu
 \.zya\.me
@@ -953,6 +963,7 @@ app\.biceps-bio\.de\/
 app\.decktopus\.com
 app\.getbeamer\.com\/
 app\.getresponse\.com\/
+app\.topol\.io\/signed-links\/
 aragon\.network
 asekio\.com
 atlassian\.net\/wiki\/
@@ -967,6 +978,7 @@ biolinky\.co\/
 bityl\.co\/
 brewsurvey\.com
 bubbleapps\.io
+builder\.bookipi\.com\/
 cakeresume\.com\/
 campsite\.bio\/
 canva\.com\/
@@ -998,6 +1010,7 @@ dynv\d\.net
 e\.vg\/
 easywebsiteform\.com
 ebio\.gg\/
+elementor\.cloud
 evernote\.com\/shard\/
 express\.adobe\.com
 ezyurl\.net\/
@@ -1012,7 +1025,6 @@ flow\.page\/
 flowcode\.com
 flowcv\.me\/
 flowto\.it\/
-form\.jotform\.com\/
 formaloo\.com
 format\.com
 formester\.com\/
@@ -1026,6 +1038,7 @@ goo\.by\/
 googleweblight\.com
 gooo\.to\/
 gr-site\.com
+gravatar\.com\/
 grwebsites\.com\/
 hab\.me\/
 hardbin\.com
@@ -1055,12 +1068,14 @@ jemi\.so\/
 jii\.li\/
 jimdofree\.com
 jorropo\.net
+jotform\.com\/
 jpu\.jp
 keepo\.io\/
 komi\.io
 kontactr\.com\/
 kortlink\.dk\/
 kurl\.ru\/
+kytelink\.com\/
 l2g\.hu\/
 l\.ead\.me\/
 lc\.cx\/
@@ -1074,6 +1089,7 @@ linkbio\.co\/
 linkby\.tw
 linkfast\.me\/
 linkflit\.com\/
+linkfly\.to\/
 linki\.ee\/
 linkin\.bio\/
 linkpages\.pro\/
@@ -1087,6 +1103,7 @@ linx\.re\/
 list-manage\.com
 lite\.evernote\.com\/note\/
 litnet\.work
+livegate\.me\/
 llk\.dk\/
 ln\.run
 lnk\.sk\/
@@ -1101,6 +1118,7 @@ mmm\.page
 mockplus\.com\/
 mozellosite\.com
 msha\.ke\/
+mssg\.me\/
 mtr\.bio\/
 muse\.io
 mylink\.la\/
@@ -1114,6 +1132,7 @@ nftstorage\.link
 odesli\.co\/
 olink\.ai\/
 one\.link
+onne\.link\/
 padlet\.com
 parg\.co\/
 pblc\.me\/pub\/
@@ -1124,6 +1143,7 @@ playbook\.com\/s\/
 post\.spmailtechn\.com\/
 postly\.link\/
 powr\.io\/
+powr\.io\/media-gallery\/
 preview\-domain\.com
 preview\.salekit\.page
 preview\.webcake\.io
@@ -1135,8 +1155,10 @@ q-r\.to\/
 qpointsurvey\.com\/
 qr-codes\.io\/
 qr\.fm\/
+qr\.tapnscan\.me\/
 qrco\.de\/
 qrcodes\.pro\/
+qrfy\.io\/
 quip\.com\/
 rb\.gy\/
 rdar\.li\/
@@ -1152,6 +1174,7 @@ s\.id\/
 salonlinkz\.com\/
 sayhey\.to\/
 scnv\.io\/
+seemless\.link\/
 set\.page
 share\.hsforms\.com\/
 short4\.net\/
