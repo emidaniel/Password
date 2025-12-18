@@ -1812,6 +1812,7 @@ has been terminated
 has two different logins
 have b?locked
 HELLO\!\!\!
+identicalness
 if you do ?n.?t (updat|(re)?(verif|confirm|valid|identif))\w+
 if you fail(ed)? to (updat|(re)?(verif|confirm|valid|identif))\w+
 if your? belie?ve this to be (a )? mistake
